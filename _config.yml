@@ -1,0 +1,7 @@
+# Jekyll configuration
+title: ISAV Homepage
+description: |
+  In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV) is a workshop in high-performance computing.
+url: "https://isav-workshop.github.io"
+#markdown: kramdown or GFM (default)
+#highlightr: rouge

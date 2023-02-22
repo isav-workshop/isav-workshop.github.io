@@ -11,15 +11,14 @@ description: >
   experiences to foster and enable in situ analysis and visualization.
 year: 2022
 current: true
-layout: no_navbar
-permalink: /events/ISAV2022/
+permalink: /2022/
 ---
 
 <style type="text/css">
 
       #isav-sc22-banner {
                 margin: 2px 2px 2px 2px;
-                background: url("{{site.url}}{{site.baseurl}}/images/events/ISAV22_logo_ewb.png") 0 0 no-repeat;
+                background: url("ISAV22_logo_ewb.png") 0 0 no-repeat;
                 height: 130px;
                 border: 0px solid white;
                 border-bottom: 0px solid beige;
@@ -32,7 +31,7 @@ permalink: /events/ISAV2022/
 
 # ISAV 2022: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization
 
-<p style="text-align: center;">
+<p style="text-align: center;" markdown="1">
 
 Held in conjunction with: [SC22, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org/) <br>
 <br>
