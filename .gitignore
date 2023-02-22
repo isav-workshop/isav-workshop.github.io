@@ -1,0 +1,31 @@
+##########
+# Python #
+##########
+*.pyc
+__pycache__
+
+####################
+# Package Managers #
+####################
+# anonymous Spack environments
+# https://spack.readthedocs.io/en/latest/environments.html#anonymous-environments
+.spack-env/
+spack.lock
+
+#######
+# IDE #
+#######
+.idea/
+cmake-build-*/
+.kdev?/
+*.kdev?
+.vscode
+*.iws
+*~
+
+######
+# OS #
+######
+.DS_Store
+.AppleDouble
+.LSOverride
