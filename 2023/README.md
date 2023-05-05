@@ -1,7 +1,7 @@
 ---
 title: "ISAV 2023: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization"
 description: >
-  Description coming soon.
+  Information for the SC'23 conference ISAV workshop
 year: 2023
 current: true
 permalink: /2023/
@@ -26,7 +26,6 @@ permalink: /2023/
 
 <p style="text-align: center;" markdown="1">
 
-**This page will be updated soon!**
 <br>
 
 Proposed in conjunction with: [SC23, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc23.supercomputing.org) <br>
@@ -38,7 +37,7 @@ Proposed in conjunction with: [SC23, The International Conference for High Perfo
 
 </p>
 
-## Workshop Theme (to be updated)
+## Workshop Theme
 The considerable interest in the HPC community regarding in situ analysis and visualization is due to several factors. First is an I/O cost savings, where data is analyzed/visualized while being generated, without first storing to a file system. Second is the potential for increased accuracy, where fine temporal sampling of transient analysis might expose some complex behavior missed in coarse temporal sampling. Third is the ability to use all available resources, CPUs and accelerators, in the computation of analysis products.
 
 The workshop brings together researchers, developers and practitioners from industry, academia, and government laboratories developing, applying, and deploying in situ methods in extreme-scale, high performance computing. The goal is to present research findings, lessons learned, and insights related to developing and applying in situ methods and infrastructure across a range of science and engineering applications in HPC environments; to discuss topics like opportunities presented by new architectures, existing infrastructure needs, requirements, and gaps, and experiences to foster and enable in situ analysis and visualization; to serve as a "center of gravity" for researchers, practitioners, and users/consumers of in situ methods and infrastructure in the HPC space.
@@ -46,11 +45,11 @@ The workshop brings together researchers, developers and practitioners from indu
 
 ## Participation/Call for Papers (to be updated)
 
-The [ISAV 2022 CFP is available at online](https://docs.google.com/document/d/1peyITGQUo5oVxsH8DSnSZN4EMj_EqjycyJZ7ZOFMFBM/)  and describes the topic areas of interest, the submission process,  and the review process.
+The [ISAV `2022` CFP is available at online](https://docs.google.com/document/d/1peyITGQUo5oVxsH8DSnSZN4EMj_EqjycyJZ7ZOFMFBM/)  and describes the topic areas of interest, the submission process,  and the review process.
 
 Notes:
 * Submissions will be done via Linklings
-* The paper submission deadline is 12 Aug 2022
+* The paper submission deadline is `xx` Aug 2023
 
 ## Publication in proceedings, presentation at the workshop (to be updated)
 All paper submissions that receive favorable reviews will be included as part
@@ -66,20 +65,20 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
 30 Sep 2022        | Camera ready copy due (note: this deadline is FIRM)
 13 Nov 2022        | ISAV'22 workshop at SC22, morning session
 
-## Committees and Chairs (to be updated)
+## Committees and Chairs
 
-#### Chairs (to be updated)
+#### Chairs
 
-  * General chair: Dave Pugmire,  *Oak Ridge National Laboratory, USA*
-  * General co-chair: Sean Ziegeler, *US Department of Defence HPC Modernization Program / GDIT, USA*
-  * Program chair: Matt Larsen, *Luminary Cloud, USA*
-  * Program co-chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
+  * General chair: Sean Ziegeler, *US Department of Defense HPC Modernization Program / GDIT, USA*
+  * General co-chair: Matt Larsen, *Luminary Cloud, USA*
+  * Program chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
+  * Program co-chair: ?*
   * Publicity chair: Earl Duque, *Intelligent Light, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
   * At-large Chair:  E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
 
-#### Organizing Committee (to be updated)
+#### Organizing Committee
 
   * E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
   * Earl Duque, *Intelligent Light, USA*
@@ -96,7 +95,7 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
   * Matthew Wolf, *Oak Ridge National Laboratory, USA*
   * Sean Ziegeler, *US Department of Defence HPC Modernization Program / GDIT, USA*
 
-#### Program Committee (to be updated)
+#### Program Committee
 
   * Andrew Bauer, *US Army Corps of Engineers, USA*
   * E. Wes Bethel, *Lawrence Berkeley National Laboratory (LBNL) and California State University, San Francisco, USA*
@@ -150,14 +149,9 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
   * Abhishek D. Yenpure, *Kitware Inc. and  University of Oregon, USA*
   * Sean Ziegeler, *US Department of Defense HPC Modernization Program / GDIT, USA*
 
-#### Best Paper Committee (to be updated)
-  * Peter Messmer, *NVIDIA, Switzerland*
-  * Silvio Rizzi,  *Argonne National Laboratory, USA*
-  * Estelle	Dirand, *TotalEnergies, France*
-  * Naohisa Sakamoto, *Kobe University, Japan*
+#### Best Paper Committee
+  * TBD
 
 ### Contact Us (to be updated)
- * Dave Pugmire, General Chair, pugmire at ornl dot gov
- * Matt Larsen, Papers Chair, matt at luminarycloud dot com
-
-
+ * Sean Ziegeler, General Chair, sean dot ziegeler at gdit dot com
+ * Axel Huebl, Papers Chair, axelhuebl at lbl dot gov
