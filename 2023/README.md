@@ -56,14 +56,16 @@ All paper submissions that receive favorable reviews will be included as part
 of the workshop proceedings, which will be published by the IEEE Computer Society
 (more details will be forthcoming).
 
-## Timeline/Important Dates (to be updated)
+
+## Timeline/Important Dates
 
 :------------------|:--------------------------------------
-12 Aug 2022        | Paper submission deadline (was 5 Aug 2022)
-09 Sep 2022        | Author notification 
-30 Sep 2022        | Author doing remote presentation upload video recording of their talk (note: this deadline is FIRM)
-30 Sep 2022        | Camera ready copy due (note: this deadline is FIRM)
-13 Nov 2022        | ISAV'22 workshop at SC22, morning session
+04 Aug 2023        | Paper submission deadline
+08 Sep 2023        | Author notification 
+29 Sep 2023        | Author doing remote presentation upload video recording of their talk (note: this deadline is FIRM)
+29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
+12-17 Nov 2023     | ISAV'23 workshop at SC23, morning session
+
 
 ## Committees and Chairs
 
