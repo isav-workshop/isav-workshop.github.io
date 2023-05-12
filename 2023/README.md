@@ -30,7 +30,7 @@ permalink: /2023/
 
 Proposed in conjunction with: [SC23, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc23.supercomputing.org) <br>
 <br>
-<!-- [Sunday 13 November 2022, 8:30am -- 12:00pm CST, Room C143-149](https://sc22.supercomputing.org/session/?sess=sess426) <br> -->
+[Monday 13 November 2023, 8:30am - 12pm MST, Room TBA](https://sc23.supercomputing.org/presentation/?id=wksp116&sess=sess115) <br>
 
   
   [Last year: ISAV 2022 Proceedings online at IEEE Explore](https://www.computer.org/csdl/proceedings/isav/2022/1KmFMp41c9a) <br>
@@ -49,7 +49,7 @@ The [ISAV `2022` CFP is available at online](https://docs.google.com/document/d/
 
 Notes:
 * Submissions will be done via Linklings
-* The paper submission deadline is `xx` Aug 2023
+* The paper submission deadline is 04 Aug 2023
 
 ## Publication in proceedings, presentation at the workshop (to be updated)
 All paper submissions that receive favorable reviews will be included as part
@@ -64,7 +64,7 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
 08 Sep 2023        | Author notification 
 29 Sep 2023        | Author doing remote presentation upload video recording of their talk (note: this deadline is FIRM)
 29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
-12-17 Nov 2023     | ISAV'23 workshop at SC23, morning session
+13 Nov 2023        | ISAV'23 workshop at SC23, morning session
 
 
 ## Committees and Chairs
@@ -78,7 +78,7 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
   * Publicity chair: Earl Duque, *Intelligent Light, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
-  * At-large Chair:  E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
+  * At-large Chair: E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
 
 #### Organizing Committee
 
@@ -154,6 +154,6 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
 #### Best Paper Committee
   * TBD
 
-### Contact Us (to be updated)
+### Contact Us
  * Sean Ziegeler, General Chair, sean dot ziegeler at gdit dot com
  * Axel Huebl, Papers Chair, axelhuebl at lbl dot gov
