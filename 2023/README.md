@@ -99,57 +99,7 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
 
 #### Program Committee
 
-  * Andrew Bauer, *US Army Corps of Engineers, USA*
-  * E. Wes Bethel, *Lawrence Berkeley National Laboratory (LBNL) and California State University, San Francisco, USA*
-  * Julien Bigot, *French Alternative Energies and Atomic Energy Commission (CEA), France*
-  * Roba Binyahib, *Intel Corporation, USA*
-  * Jieyang Chen, *Oak Ridge National Laboratory (ORNL), USA*
-  * Hank Childs, *University of Oregon, USA*
-  * Wetterer-Nelson, *Kitware Inc, USA*
-  * Philip Davis, *University of Utah, Scientific Computing and Imaging Institute (SCI) and Rutgers University, USA*
-  * Estelle Dirand, *TotalEnergies, France, France*
-  * Matthieu Dorier, *Argonne National Laboratory (ANL), USA*
-  * Anshu Dubey, *Argonne National Laboratory (ANL), University of Chicago, USA*
-  * Earl P.N. Duque, *Intelligent Light, USA*
-  * Soumya Dutta, *Los Alamos National Laboratory (LANL), USA*
-  * Nicola Ferrier, *Argonne National Laboratory (ANL) and University of Chicago, USA*
-  * Christoph Garth, *University of Kaiserslautern, Germany*
-  * Patrick Gralka, *University of Stuttgart, Germany*
-  * Pascal Grosset, *Los Alamos National Laboratory (LANL), USA*
-  * Amal Gueroudji, *French Alternative Energies and Atomic Energy Commission (CEA), French Institute for Research in Computer Science and Automation (INRIA), France*
-  * Charles Gueunet, *Kitware Inc, USA*
-  * Axel Huebl, *Lawrence Berkeley National Laboratory (LBNL), USA*
-  * Joseph A. Insley, *Argonne National Laboratory (ANL) and Northern Illinois University, USA*
-  * James Kress, *King Abdullah University of Science and Technology (KAUST), Saudi Arabia*
-  * Matthew Larsen, *Luminary Cloud Inc, USA*
-  * Samuel Li, *National Center for Atmospheric Research (NCAR), USA*
-  * Burlen Loring, *Lawrence Berkeley National Laboratory (LBNL), USA*
-  * Preeti Malakar, *Indian Institute of Technology (IIT), Kanpur, India*
-  * Victor Mateevitsi, *Argonne National Laboratory (ANL), USA*
-  * Peter Messmer, *NVIDIA Corporation, Switzerland*
-  * Kenneth Moreland, *Oak Ridge National Laboratory (ORNL), USA*
-  * Paul A. Navratil, *Texas Advanced Computing Center (TACC), University of Texas, USA*
-  * Isaac Nealey, *University of California, San Diego, USA*
-  * Jorji Nonaka, *RIKEN Center for Computational Science (R-CCS), Japan*
-  * Patrick O'Leary, *Kitware Inc, USA*
-  * Dave Pugmire, *Oak Ridge National Laboratory (ORNL), USA*
-  * Jesus Pulido, *Los Alamos National Laboratory (LANL), USA*
-  * Bruno Raffin, *French Institute for Research in Computer Science and Automation (INRIA) and  Grenoble Alpes University, France*
-  * Guido Reina, *University of Stuttgart, Germany*
-  * Alejandro Ribes, *EDF Research and Development, France*
-  * Silvio Rizzi, *Argonne National Laboratory (ANL), USA*
-  * Naohisa Sakamoto, *Kobe University, Japan*
-  * Andrea Schnorr, *Technical University Kaiserslautern, Germany*
-  * Sergei Shudler, *Lawrence Livermore National Laboratory (LLNL), USA*
-  * Tjerk P. Straatsma, *Oak Ridge National Laboratory (ORNL), USA*
-  * Thomas Theussl, *King Abdullah University of Science and Technology (KAUST), Saudi Arabia*
-  * Daven Tjaarda-Hernandez, *Lawrence Livermore National Laboratory (LLNL), USA*
-  * Will Usher, *Intel Corporation, USA*
-  * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
-  * Matthew Wolf, *Oak Ridge National Laboratory (ORNL), USA*
-  * Qi Wu, *University of California, Davis, USA*
-  * Abhishek D. Yenpure, *Kitware Inc. and  University of Oregon, USA*
-  * Sean Ziegeler, *US Department of Defense HPC Modernization Program / GDIT, USA*
+  * TBD
 
 #### Best Paper Committee
   * TBD
