@@ -85,7 +85,7 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
   * Earl Duque, *Intelligent Light, USA*
   * Nicola Ferrier, *Argonne National Laboratory, USA*
   * Christoph Garth, *Technische Universit&auml;t Kaiserslautern*
-  * Axel Huebl, Lawrence Berkeley National Laboratory, USA
+  * Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
   * Kenneth Moreland, *Oak Ridge National Laboratory, USA*
   * Patrick O'Leary, *Kitware, USA*
   * Guido Reina , *University of Stuttgart*
