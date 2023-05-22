@@ -62,7 +62,6 @@ of the workshop proceedings, which will be published by the IEEE Computer Societ
 :------------------|:--------------------------------------
 04 Aug 2023        | Paper submission deadline
 08 Sep 2023        | Author notification 
-29 Sep 2023        | Author doing remote presentation upload video recording of their talk (note: this deadline is FIRM)
 29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
 13 Nov 2023        | ISAV'23 workshop at SC23, morning session
 
