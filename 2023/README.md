@@ -30,7 +30,7 @@ p { text-align: justify; }
 
 # ISAV 2023: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization
 
-<p style="text-align: center;" markdown="1">
+<p style="text-align: left;" markdown="1">
 
 <br>
 
