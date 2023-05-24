@@ -39,9 +39,6 @@ In conjunction with:
 <br>
 [Monday 13 November 2023, 8:30am - 12pm MST, Room TBA](https://sc23.supercomputing.org/presentation/?id=wksp116&sess=sess115) <br>
 
-  
-  [Last year: ISAV 2022 Proceedings online at IEEE Explore](https://www.computer.org/csdl/proceedings/isav/2022/1KmFMp41c9a) <br>
-
 </p>
 
 ## Workshop Theme
@@ -109,6 +106,7 @@ Lightning round submissions and the keynote speaker abstract will not be include
 Subject to the constraints of workshop length, some subset of the accepted publications will be invited to give a brief oral presentation at the workshop.
 The exact number of such presentations and their length will be determined after the review process has been completed.
 
+[Last year's ISAV 2022 Proceedings are online at IEEE Explore.](https://www.computer.org/csdl/proceedings/isav/2022/1KmFMp41c9a)
 
 ## Timeline/Important Dates
 
