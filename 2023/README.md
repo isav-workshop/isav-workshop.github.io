@@ -9,14 +9,18 @@ permalink: /2023/
 
 <style type="text/css">
 
-      #isav-sc23-banner {
-                margin: 2px 2px 2px 2px;
-                background: url("/2023/ISAV2023_logo.png") 0 0 no-repeat;
-                height: 130px;
-                border: 0px solid white;
-                border-bottom: 0px solid beige;
-                align: center;
-      }
+#isav-sc23-banner {
+    margin: 2px 2px 2px 2px;
+    background: url("/2023/ISAV2023_logo.png") 0 0 no-repeat;
+    height: 130px;
+    border: 0px solid white;
+    border-bottom: 0px solid beige;
+    align: center;
+}
+
+.container-lg > h1:first-of-type {
+    display: none;
+}
 
 </style>
 
