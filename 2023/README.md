@@ -22,6 +22,8 @@ permalink: /2023/
     display: none;
 }
 
+p { text-align: justify; }
+
 </style>
 
 <div id="isav-sc23-banner"> </div>
