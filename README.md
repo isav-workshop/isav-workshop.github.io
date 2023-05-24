@@ -2,9 +2,9 @@
 
 This is the repository hosting the *In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization* (ISAV) homepage.
 
-## Next Workshop
+## Current Workshop
 
-- *coming soon:* [ISAV23](2023/)
+- [ISAV23](2023/)
 
 ## Previous Workshops:
 
