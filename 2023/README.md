@@ -144,7 +144,7 @@ The exact number of such presentations and their length will be determined after
   * Bruno Raffin, *INRIA, France*
   * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
   * Gunther H. Weber, *Lawrence Berkeley National Laboratory, USA*
-  * Matthew Wolf, *Oak Ridge National Laboratory, USA*
+  * Matthew Wolf, *Samsung Electronics, USA*
   * Sean Ziegeler, *US Department of Defence HPC Modernization Program / GDIT, USA*
 
 #### Program Committee
