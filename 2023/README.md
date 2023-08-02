@@ -111,7 +111,7 @@ The exact number of such presentations and their length will be determined after
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
-~04 Aug 2023~      | Paper submission deadline
+~~04 Aug 2023~~    | Paper submission deadline
 11 Aug 2023        | Paper submission deadline (extended)
 08 Sep 2023        | Author notification 
 29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
