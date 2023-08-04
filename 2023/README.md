@@ -85,7 +85,8 @@ In earlier editions of the workshop a +1 spillover page for references was grant
 Note that this changed and is now 5 + 1 from the beginning.
 
 All authors must use the new proceedings templates and the CCS2012 guide that are available at:
-[http://www.acm.org/publications/article-templates/proceedings-template.html](http://www.acm.org/publications/article-templates/proceedings-template.html)
+[http://www.acm.org/publications/article-templates/proceedings-template.html](http://www.acm.org/publications/article-templates/proceedings-template.html).
+Make sure you use the ``sigconf`` template, as shown in ``samples/sample-sigconf.tex`` in the downloadable archive.
 
 We believe that reproducible science is essential, and that SC should be a leader in this effort.
 As a consequence, ISAV 2023 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information.
