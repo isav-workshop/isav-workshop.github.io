@@ -153,9 +153,37 @@ Please note that his deadline is FIRM.
 
 #### Program Committee
 
-  * TBD
+  * Bauer, Andrew
+  * Bigot, Julien
+  * Binyahib, Roba
+  * Childs, Hank
+  * Davis, Philip
+  * Dirand, Estelle
+  * Dorier, Matthieu
+  * Dutta, Soumya
+  * Garth, Christoph
+  * Grosset, Pascal
+  * Gueroudji, Amal
+  * Insley, Joseph A.
+  * James, Kress
+  * Li, Samuel
+  * Malakar, Preeti
+  * Marsaglia, Nicole
+  * Marrinan, Thomas
+  * Mateevitsi, Victor
+  * Nealey, Isaac
+  * Nonaka, Jorji
+  * Pugmire, Dave
+  * Pulido, Jesus
+  * Raffin, Bruno
+  * Ribes, Alejandro
+  * Schnorr, Andrea
+  * Theussl, Thomas
+  * Wu, Qi
+  * Yenpure, Abhishek D.
 
 #### Best Paper Committee
+
   * TBD
 
 ### Contact Us
