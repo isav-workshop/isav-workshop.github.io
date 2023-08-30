@@ -128,7 +128,7 @@ Please note that his deadline is FIRM.
   * General chair: Sean Ziegeler, *US Department of Defense HPC Modernization Program / GDIT, USA*
   * General co-chair: Matt Larsen, *Luminary Cloud, USA*
   * Program chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
-  * Program co-chair: Will Usher, *Intel Corporation, USA*
+  * Program co-chair: Will Usher, *Intel Corporation, USA* now *Luminary Cloud, USA*
   * Publicity chair: Earl Duque, *Intelligent Light, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
@@ -161,33 +161,33 @@ Please note that his deadline is FIRM.
   * Dirand, Estelle
   * Dorier, Matthieu
   * Dutta, Soumya
-  * Dyken, Landon (early career member), *University of illinois Chicago*
+  * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
   * Garth, Christoph
   * Griffin, Kevin
   * Grosset, Pascal
   * Gueroudji, Amal
   * Insley, Joseph A.
   * James, Kress
-  * Kulkarni, Sudhanshu (early career member), *San Francisco State University*
+  * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
   * Li, Samuel
   * Malakar, Preeti
   * Marsaglia, Nicole
   * Marrinan, Thomas
   * Mateevitsi, Victor
-  * Nealey, Isaac
-  * Nonaka, Jorji
-  * Pugmire, Dave
-  * Pulido, Jesus
-  * Raffin, Bruno
-  * Ribes, Alejandro
-  * Sarode, Kartikey (early career member), *San Francisco State University*
-  * Schnorr, Andrea
-  * Sewell, Andres (early career member), *Utah State University*
-  * Theussl, Thomas
-  * Tishchenko, Nazariy (early career member), *Northern Illinois University*
-  * Wu, Qi
-  * Yenpure, Abhishek D.
-  * Yousef, Ayman (early career member), *Duke University*
+  * Nealey, Isaac - *UC San Diego, USA*
+  * Nonaka, Jorji - *Riken, Japan*
+  * Pugmire, Dave - *Oak Ridge National Laboratory, USA*
+  * Pulido, Jesus - *Los Alamos National Laboratory, USA*
+  * Raffin, Bruno - *INRIA, France*
+  * Ribes, Alejandro - *EDF, France*
+  * Sarode, Kartikey (early career member) - *San Francisco State University, USA*
+  * Schnorr, Andrea - *RWYH Aachen, Germany*
+  * Sewell, Andres (early career member) - *Utah State University, USA*
+  * Theussl, Thomas - *Kaust, Saudi Arabia*
+  * Tishchenko, Nazariy (early career member) - *Northern Illinois University, USA*
+  * Wu, Qi - *UC Davis, USA*
+  * Yenpure, Abhishek D. - *Kitware, USA*
+  * Yousef, Ayman (early career member) - *Duke University, USA*
 
 #### Best Paper Committee
 
