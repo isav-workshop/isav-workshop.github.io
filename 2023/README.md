@@ -161,14 +161,14 @@ Please note that his deadline is FIRM.
   * Dirand, Estelle
   * Dorier, Matthieu
   * Dutta, Soumya
-  * Dyken, Landon (early career member)
+  * Dyken, Landon (early career member), *University of illinois Chicago*
   * Garth, Christoph
   * Griffin, Kevin
   * Grosset, Pascal
   * Gueroudji, Amal
   * Insley, Joseph A.
   * James, Kress
-  * Kulkarni, Sudhanshu (early career member)
+  * Kulkarni, Sudhanshu (early career member), *San Francisco State University*
   * Li, Samuel
   * Malakar, Preeti
   * Marsaglia, Nicole
@@ -180,14 +180,14 @@ Please note that his deadline is FIRM.
   * Pulido, Jesus
   * Raffin, Bruno
   * Ribes, Alejandro
-  * Sarode, Kartikey (early career member)
+  * Sarode, Kartikey (early career member), *San Francisco State University*
   * Schnorr, Andrea
-  * Sewell, Andres (early career member)
+  * Sewell, Andres (early career member), *Utah State University*
   * Theussl, Thomas
-  * Tishchenko, Nazariy (early career member)
+  * Tishchenko, Nazariy (early career member), *Northern Illinois University*
   * Wu, Qi
   * Yenpure, Abhishek D.
-  * Yousef, Ayman (early career member)
+  * Yousef, Ayman (early career member), *Duke University*
 
 #### Best Paper Committee
 
