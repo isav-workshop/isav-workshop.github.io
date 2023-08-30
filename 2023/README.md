@@ -153,26 +153,26 @@ Please note that his deadline is FIRM.
 
 #### Program Committee
 
-  * Bauer, Andrew
+  * Bauer, Andrew - *United States Army Corps of Engineers*
   * Bigot, Julien
-  * Binyahib, Roba
-  * Childs, Hank
+  * Binyahib, Roba - *Intel*
+  * Childs, Hank - *University of Oregon*
   * Davis, Philip
   * Dirand, Estelle
   * Dorier, Matthieu
   * Dutta, Soumya
   * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
-  * Garth, Christoph
+  * Garth, Christoph - *University of Kaiserslautern*
   * Griffin, Kevin
-  * Grosset, Pascal
+  * Grosset, Pascal - *Los Alamos National Laboratory*
   * Gueroudji, Amal
-  * Insley, Joseph A.
-  * James, Kress
+  * Insley, Joseph A. - *Argonne National Laboratory*
+  * James, Kress - *KAUST*
   * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
   * Li, Samuel
   * Malakar, Preeti
-  * Marsaglia, Nicole
-  * Marrinan, Thomas
+  * Marsaglia, Nicole - *Lawrence Livermore National Laboratory*
+  * Marrinan, Thomas - *University of St. Thomas*
   * Mateevitsi, Victor
   * Nealey, Isaac - *UC San Diego, USA*
   * Nonaka, Jorji - *Riken, Japan*
