@@ -161,11 +161,14 @@ Please note that his deadline is FIRM.
   * Dirand, Estelle
   * Dorier, Matthieu
   * Dutta, Soumya
+  * Dyken, Landon (early career member)
   * Garth, Christoph
+  * Griffin, Kevin
   * Grosset, Pascal
   * Gueroudji, Amal
   * Insley, Joseph A.
   * James, Kress
+  * Kulkarni, Sudhanshu (early career member)
   * Li, Samuel
   * Malakar, Preeti
   * Marsaglia, Nicole
@@ -177,10 +180,14 @@ Please note that his deadline is FIRM.
   * Pulido, Jesus
   * Raffin, Bruno
   * Ribes, Alejandro
+  * Sarode, Kartikey (early career member)
   * Schnorr, Andrea
+  * Sewell, Andres (early career member)
   * Theussl, Thomas
+  * Tishchenko, Nazariy (early career member)
   * Wu, Qi
   * Yenpure, Abhishek D.
+  * Yousef, Ayman (early career member)
 
 #### Best Paper Committee
 
