@@ -139,11 +139,11 @@ Please note that his deadline is FIRM.
   * E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
   * Earl Duque, *Intelligent Light, USA*
   * Nicola Ferrier, *Argonne National Laboratory, USA*
-  * Christoph Garth, *Technische Universit&auml;t Kaiserslautern*
+  * Christoph Garth, *University of Kaiserslautern-Landau, Germany*
   * Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
   * Kenneth Moreland, *Oak Ridge National Laboratory, USA*
   * Patrick O'Leary, *Kitware, USA*
-  * Guido Reina , *University of Stuttgart*
+  * Guido Reina , *University of Stuttgart, Germany*
   * Silvio Rizzi,  *Argonne National Laboratory, USA*
   * Bruno Raffin, *INRIA, France*
   * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
@@ -156,22 +156,22 @@ Please note that his deadline is FIRM.
   * Bauer, Andrew - *United States Army Corps of Engineers*
   * Bigot, Julien
   * Binyahib, Roba - *Intel*
-  * Childs, Hank - *University of Oregon*
+  * Childs, Hank - *University of Oregon, USA*
   * Davis, Philip
   * Dirand, Estelle
   * Dorier, Matthieu
   * Dutta, Soumya
   * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
-  * Garth, Christoph - *University of Kaiserslautern*
+  * Garth, Christoph - *University of Kaiserslautern-Landau, Germany*
   * Griffin, Kevin
-  * Grosset, Pascal - *Los Alamos National Laboratory*
+  * Grosset, Pascal - *Los Alamos National Laboratory, USA*
   * Gueroudji, Amal
-  * Insley, Joseph A. - *Argonne National Laboratory*
+  * Insley, Joseph A. - *Argonne National Laboratory, USA*
   * James, Kress - *KAUST*
   * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
   * Li, Samuel
   * Malakar, Preeti
-  * Marsaglia, Nicole - *Lawrence Livermore National Laboratory*
+  * Marsaglia, Nicole - *Lawrence Livermore National Laboratory, USA*
   * Marrinan, Thomas - *University of St. Thomas*
   * Mateevitsi, Victor
   * Nealey, Isaac - *UC San Diego, USA*
@@ -181,7 +181,7 @@ Please note that his deadline is FIRM.
   * Raffin, Bruno - *INRIA, France*
   * Ribes, Alejandro - *EDF, France*
   * Sarode, Kartikey (early career member) - *San Francisco State University, USA*
-  * Schnorr, Andrea - *RWYH Aachen, Germany*
+  * Schnorr, Andrea - *University of Kaiserslautern-Landau, Germany*
   * Sewell, Andres (early career member) - *Utah State University, USA*
   * Theussl, Thomas - *Kaust, Saudi Arabia*
   * Tishchenko, Nazariy (early career member) - *Northern Illinois University, USA*
