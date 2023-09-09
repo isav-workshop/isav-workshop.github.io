@@ -37,7 +37,7 @@ p { text-align: justify; }
 In conjunction with:  
 [SC23, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc23.supercomputing.org) <br>
 <br>
-[Monday 13 November 2023, 8:30am - 12pm MST, Room TBA](https://sc23.supercomputing.org/presentation/?id=wksp116&sess=sess115) <br>
+[Monday 13 November 2023, 9:00am - 12:30pm MST, Room 710](https://sc23.supercomputing.org/session/?sess=sess115) <br>
 
 </p>
 
