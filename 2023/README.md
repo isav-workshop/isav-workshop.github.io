@@ -139,7 +139,7 @@ Please note that his deadline is FIRM.
   * E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
   * Earl Duque, *Intelligent Light, USA*
   * Nicola Ferrier, *Argonne National Laboratory, USA*
-  * Christoph Garth, *University of Kaiserslautern-Landau, Germany*
+  * Christoph Garth, *University of Kaiserslautern, Germany*
   * Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
   * Kenneth Moreland, *Oak Ridge National Laboratory, USA*
   * Patrick O'Leary, *Kitware, USA*
@@ -153,26 +153,26 @@ Please note that his deadline is FIRM.
 
 #### Program Committee
 
-  * Bauer, Andrew - *United States Army Corps of Engineers*
-  * Bigot, Julien
+  * Bauer, Andrew - *United States Army Corps of Engineers, USA*
+  * Bigot, Julien - *CEA, France, USA*
   * Binyahib, Roba - *Intel*
   * Childs, Hank - *University of Oregon, USA*
   * Davis, Philip
-  * Dirand, Estelle
-  * Dorier, Matthieu
+  * Dirand, Estelle - *TotalEnergies, France*
+  * Dorier, Matthieu - *Argonne National Labotatory, USA*
   * Dutta, Soumya
   * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
   * Garth, Christoph - *University of Kaiserslautern-Landau, Germany*
   * Griffin, Kevin
   * Grosset, Pascal - *Los Alamos National Laboratory, USA*
-  * Gueroudji, Amal
+  * Gueroudji, Amal - *Argonne National Labotatory, USA*
   * Insley, Joseph A. - *Argonne National Laboratory, USA*
   * James, Kress - *KAUST*
   * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
   * Li, Samuel
   * Malakar, Preeti
   * Marsaglia, Nicole - *Lawrence Livermore National Laboratory, USA*
-  * Marrinan, Thomas - *University of St. Thomas*
+  * Marrinan, Thomas - *University of St. Thomas, USA*
   * Mateevitsi, Victor
   * Nealey, Isaac - *UC San Diego, USA*
   * Nonaka, Jorji - *Riken, Japan*
