@@ -161,41 +161,41 @@ Please note that his deadline is FIRM.
 
 #### Program Committee
 
-  * Bauer, Andrew - *United States Army Corps of Engineers, USA*
-  * Bigot, Julien - *CEA, France, USA*
-  * Binyahib, Roba - *Intel, USA*
-  * Childs, Hank - *University of Oregon, USA*
-  * Davis, Philip - *University of Utah, Scientific Computing and Imaging Institute (SCI) and Rutgers University, USA*
-  * Dirand, Estelle - *TotalEnergies, France*
-  * Dorier, Matthieu - *Argonne National Labotatory, USA*
-  * Dutta, Soumya - *Los Alamos National Laboratory (LANL), USA*
-  * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
-  * Garth, Christoph - *University of Kaiserslautern-Landau, Germany*
-  * Griffin, Kevin - *Nvidia, USA*
-  * Grosset, Pascal - *Los Alamos National Laboratory, USA*
-  * Gueroudji, Amal - *Argonne National Labotatory, USA*
-  * Insley, Joseph A. - *Argonne National Laboratory, USA*
-  * James, Kress - *KAUST, Saudi Arabia*
-  * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
-  * Li, Samuel - *National Center for Atmospheric Research (NCAR), USA*
-  * Malakar, Preeti - *Indian Institute of Technology (IIT), Kanpur, India*
-  * Marsaglia, Nicole - *Lawrence Livermore National Laboratory, USA*
-  * Marrinan, Thomas - *University of St. Thomas, USA*
-  * Mateevitsi, Victor - *Argonne National Laboratory (ANL), USA*
-  * Nealey, Isaac - *UC San Diego, USA*
-  * Nonaka, Jorji - *Riken, Japan*
-  * Pugmire, Dave - *Oak Ridge National Laboratory, USA*
-  * Pulido, Jesus - *Los Alamos National Laboratory, USA*
-  * Raffin, Bruno - *INRIA, France*
-  * Ribes, Alejandro - *EDF, France*
-  * Sarode, Kartikey (early career member) - *San Francisco State University, USA*
-  * Schnorr, Andrea - *University of Kaiserslautern-Landau, Germany*
-  * Sewell, Andres (early career member) - *Utah State University, USA*
-  * Theussl, Thomas - *Kaust, Saudi Arabia*
-  * Tishchenko, Nazariy (early career member) - *Northern Illinois University, USA*
-  * Wu, Qi - *UC Davis, USA*
-  * Yenpure, Abhishek D. - *Kitware, USA*
-  * Yousef, Ayman (early career member) - *Duke University, USA*
+  * Andrew Bauer - *United States Army Corps of Engineers, USA*
+  * Julien Bigot - *CEA, France, USA*
+  * Roba Binyahib - *Intel, USA*
+  * Hank Childs - *University of Oregon, USA*
+  * Philip Davis - *University of Utah, Scientific Computing and Imaging Institute (SCI) and Rutgers University, USA*
+  * Estelle Dirand - *TotalEnergies, France*
+  * Matthieu Dorier - *Argonne National Labotatory, USA*
+  * Soumya Dutta - *Los Alamos National Laboratory (LANL), USA*
+  * Landon Dyken (early career member) - *University of illinois Chicago, USA*
+  * Christoph Garth - *University of Kaiserslautern-Landau, Germany*
+  * Kevin Griffin - *Nvidia, USA*
+  * Pascal Grosset - *Los Alamos National Laboratory, USA*
+  * Amal Gueroudji - *Argonne National Labotatory, USA*
+  * Joseph A. Insley - *Argonne National Laboratory, USA*
+  * James Kress - *KAUST, Saudi Arabia*
+  * Sudhanshu Kulkarni (early career member) - *San Francisco State University, USA*
+  * Samuel Li - *National Center for Atmospheric Research (NCAR), USA*
+  * Preeti Malakar - *Indian Institute of Technology (IIT), Kanpur, India*
+  * Nicole Marsaglia - *Lawrence Livermore National Laboratory, USA*
+  * Thomas Marrinan - *University of St. Thomas, USA*
+  * Victor Mateevitsi - *Argonne National Laboratory (ANL), USA*
+  * Isaac Nealey - *UC San Diego, USA*
+  * Jorji Nonaka - *Riken, Japan*
+  * Dave Pugmire - *Oak Ridge National Laboratory, USA*
+  * Jesus Pulido - *Los Alamos National Laboratory, USA*
+  * Bruno Raffin - *INRIA, France*
+  * Alejandro Ribes - *EDF, France*
+  * Kartikey Sarode (early career member) - *San Francisco State University, USA*
+  * Andrea Schnorr - *University of Kaiserslautern-Landau, Germany*
+  * Andres Sewell (early career member) - *Utah State University, USA*
+  * Thomas Theussl - *Kaust, Saudi Arabia*
+  * NazariyTishchenko (early career member) - *Northern Illinois University, USA*
+  * Qi Wu - *UC Davis, USA*
+  * Abhishek D. Yenpure - *Kitware, USA*
+  * Ayman Yousef (early career member) - *Duke University, USA*
 
 #### Best Paper Committee
 
