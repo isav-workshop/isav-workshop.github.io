@@ -155,25 +155,25 @@ Please note that his deadline is FIRM.
 
   * Bauer, Andrew - *United States Army Corps of Engineers, USA*
   * Bigot, Julien - *CEA, France, USA*
-  * Binyahib, Roba - *Intel*
+  * Binyahib, Roba - *Intel, USA*
   * Childs, Hank - *University of Oregon, USA*
-  * Davis, Philip
+  * Davis, Philip - *University of Utah, Scientific Computing and Imaging Institute (SCI) and Rutgers University, USA*
   * Dirand, Estelle - *TotalEnergies, France*
   * Dorier, Matthieu - *Argonne National Labotatory, USA*
-  * Dutta, Soumya
+  * Dutta, Soumya - *Los Alamos National Laboratory (LANL), USA*
   * Dyken, Landon (early career member) - *University of illinois Chicago, USA*
   * Garth, Christoph - *University of Kaiserslautern-Landau, Germany*
-  * Griffin, Kevin
+  * Griffin, Kevin - *Nvidia, USA*
   * Grosset, Pascal - *Los Alamos National Laboratory, USA*
   * Gueroudji, Amal - *Argonne National Labotatory, USA*
   * Insley, Joseph A. - *Argonne National Laboratory, USA*
-  * James, Kress - *KAUST*
+  * James, Kress - *KAUST, Saudi Arabia*
   * Kulkarni, Sudhanshu (early career member) - *San Francisco State University, USA*
-  * Li, Samuel
-  * Malakar, Preeti
+  * Li, Samuel - *National Center for Atmospheric Research (NCAR), USA*
+  * Malakar, Preeti - *Indian Institute of Technology (IIT), Kanpur, India*
   * Marsaglia, Nicole - *Lawrence Livermore National Laboratory, USA*
   * Marrinan, Thomas - *University of St. Thomas, USA*
-  * Mateevitsi, Victor
+  * Mateevitsi, Victor - *Argonne National Laboratory (ANL), USA*
   * Nealey, Isaac - *UC San Diego, USA*
   * Nonaka, Jorji - *Riken, Japan*
   * Pugmire, Dave - *Oak Ridge National Laboratory, USA*
