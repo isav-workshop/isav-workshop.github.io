@@ -109,17 +109,25 @@ The exact number of such presentations and their length will be determined after
 
 [Last year's ISAV 2022 Proceedings are online at IEEE Explore.](https://www.computer.org/csdl/proceedings/isav/2022/1KmFMp41c9a)
 
+Update on September, 8th:
+We received 14 submissions, 12 short papers and 2 lightning talks.
+Each submission received 5 reviews.
+After all reviews were submitted, the reviewers held an online discussion of their impressions and ratings.
+Based on the review ratings and reviewer discussions, we decided to accept 3 full papers and 9 lightning talks.
+
+
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
 ~~04 Aug 2023~~    | Paper submission deadline
-11 Aug 2023        | Paper submission deadline (extended)
-08 Sep 2023        | Author notification 
+~~11 Aug 2023~~    | Paper submission deadline (extended)
+~~08 Sep 2023~~    | Author notification 
 29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
 13 Nov 2023        | ISAV'23 workshop at SC23, morning session
 
 Update on August, 2nd: the paper submission deadline was extended to August 11th, 2023.
 Please note that his deadline is FIRM.
+
 
 ## Committees and Chairs
 
