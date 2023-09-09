@@ -157,7 +157,7 @@ Please note that his deadline is FIRM.
   * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
   * Gunther H. Weber, *Lawrence Berkeley National Laboratory, USA*
   * Matthew Wolf, *Samsung Electronics, USA*
-  * Sean Ziegeler, *US Department of Defence HPC Modernization Program / GDIT, USA*
+  * Sean Ziegeler, *US Department of Defense HPC Modernization Program / GDIT, USA*
 
 #### Program Committee
 
