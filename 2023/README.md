@@ -168,7 +168,7 @@ Please note that his deadline is FIRM.
   * Philip Davis - *University of Utah, Scientific Computing and Imaging Institute (SCI) and Rutgers University, USA*
   * Estelle Dirand - *TotalEnergies, France*
   * Matthieu Dorier - *Argonne National Labotatory, USA*
-  * Soumya Dutta - *Los Alamos National Laboratory (LANL), USA*
+  * Soumya Dutta - *Indian Institute of Technology Kanpur (IIT Kanpur), India*
   * Landon Dyken (early career member) - *University of illinois Chicago, USA*
   * Christoph Garth - *University of Kaiserslautern-Landau, Germany*
   * Kevin Griffin - *Nvidia, USA*
