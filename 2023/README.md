@@ -199,7 +199,9 @@ Please note that his deadline is FIRM.
 
 #### Best Paper Committee
 
-  * TBD
+  * Soumya Dutta - *Indian Institute of Technology Kanpur (IIT Kanpur), India*
+  * Nicole Marsaglia - *Lawrence Livermore National Laboratory, USA*
+  * Jorji Nonaka - *Riken, Japan*
 
 ### Contact Us
  * Sean Ziegeler, General Chair, sean dot ziegeler at gdit dot com
