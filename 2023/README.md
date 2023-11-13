@@ -122,7 +122,7 @@ Based on the review ratings and reviewer discussions, we decided to accept 3 ful
 ~~04 Aug 2023~~    | Paper submission deadline
 ~~11 Aug 2023~~    | Paper submission deadline (extended)
 ~~08 Sep 2023~~    | Author notification 
-29 Sep 2023        | Camera ready copy due (note: this deadline is FIRM)
+~~29 Sep 2023~~    | Camera ready copy due (note: this deadline is FIRM)
 13 Nov 2023        | ISAV'23 workshop at SC23, morning session
 
 Update on August, 2nd: the paper submission deadline was extended to August 11th, 2023.
