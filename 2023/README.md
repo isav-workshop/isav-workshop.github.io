@@ -39,6 +39,9 @@ In conjunction with:
 <br>
 [Monday 13 November 2023, 9:00am - 12:30pm MST, Room 506](https://sc23.conference-program.com/session/?sess=sess452) <br>
 
+<br>
+[ISAV 2023 Proceedings at ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3624062#heading20)
+
 </p>
 
 ## Workshop Theme
