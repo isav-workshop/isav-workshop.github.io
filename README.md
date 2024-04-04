@@ -4,10 +4,11 @@ This is the repository hosting the *In Situ Infrastructures for Enabling Extreme
 
 ## Current Workshop
 
-- [ISAV23](https://isav-workshop.github.io/2023/)
+- [ISAV24](https://isav-workshop.github.io/2024/)
 
 ## Previous Workshops:
 
+- [ISAV23](https://isav-workshop.github.io/2023/)
 - [ISAV22](https://dav.lbl.gov/events/ISAV2022/) ([Backup](https://isav-workshop.github.io/2022/))
 - [ISAV21](https://dav.lbl.gov/events/ISAV2021/)
 - [ISAV20](https://dav.lbl.gov/events/ISAV2020/)
