@@ -118,7 +118,6 @@ Based on the review ratings and reviewer discussions, we decided to accept 3 ful
 
 :------------------|:--------------------------------------
 early Aug 2024     | Paper submission deadline
-mid Aug 2024       | Paper submission deadline
 early Sep 2024     | Author notification 
 end of Sep 2024    | Camera ready copy due (note: this deadline is FIRM)
 Nov 2024           | ISAV'24 workshop at SC24
