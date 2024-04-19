@@ -114,12 +114,12 @@ After all reviews were submitted, the reviewers held an online discussion of the
 Based on the review ratings and reviewer discussions, we decided to accept 3 full papers and 9 lightning talks.
 
 
-## Timeline/Important Dates (Preliminary)
+## Timeline/Important Dates
 
 :------------------|:--------------------------------------
-early Aug 2024     | Paper submission deadline
-early Sep 2024     | Author notification 
-end of Sep 2024    | Camera ready copy due (note: this deadline is FIRM)
+02 Aug 2024        | Paper submission deadline
+06 Sep 2024        | Author notification 
+27 Sep 2024        | Camera ready copy due (note: this deadline is FIRM)
 Nov 2024           | ISAV'24 workshop at SC24
 
 
@@ -129,7 +129,7 @@ Nov 2024           | ISAV'24 workshop at SC24
 
   * General chair: Matt Larsen, *Luminary Cloud, USA*
   * General co-chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
-  * Program chair: Will Usher, *Intel Corporation, USA* now *Luminary Cloud, USA*
+  * Program chair: Will Usher, *Luminary Cloud, USA*
   * Program co-chair: Estelle Dirand, *TotalEnergies, France*
   * Publicity chair: Earl Duque, *Intelligent Light, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
