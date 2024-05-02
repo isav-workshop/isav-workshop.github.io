@@ -34,7 +34,7 @@ p { text-align: justify; }
 
 <br>
 
-Proposed to be held in conjunction with:  
+To be held in conjunction with:  
 [SC24, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc24.supercomputing.org) <br>
 
 </p>
