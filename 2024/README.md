@@ -9,7 +9,7 @@ permalink: /2024/
 
 <style type="text/css">
 
-#isav-sc23-banner {
+#isav-sc24-banner {
     margin: 2px 2px 2px 2px;
     background: url("/2024/isav24_logo.png") 0 0 no-repeat;
     height: 130px;
@@ -26,7 +26,7 @@ p { text-align: justify; }
 
 </style>
 
-<div id="isav-sc23-banner"> </div>
+<div id="isav-sc24-banner"> </div>
 
 # ISAV 2024: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization
 
