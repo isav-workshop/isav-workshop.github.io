@@ -166,4 +166,4 @@ TBD
 
 ### Contact Us
  * Matt Larsen, General Chair, matt at luminarycloud dot com
- * Will Usher, Papers Chair, will at willusher dot io
+ * Will Usher, Program Chair, will at willusher dot io
