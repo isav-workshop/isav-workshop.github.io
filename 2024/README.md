@@ -34,8 +34,10 @@ p { text-align: justify; }
 
 <br>
 
-To be held in conjunction with:  
+ In conjunction with:  
 [SC24, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc24.supercomputing.org) <br>
+<br>
+Sunday, 17 November 2024, 2 pm - 5:30 pm EDT <br>
 
 </p>
 
