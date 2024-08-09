@@ -104,13 +104,6 @@ All paper submissions that receive favorable reviews will be included as part of
 
 [Last year's ISAV 2023 Proceedings are online.](https://dl.acm.org/doi/proceedings/10.1145/3624062#heading20)
 
-Update on September, 8th:
-We received 14 submissions, 12 short papers and 2 lightning talks.
-Each submission received 5 reviews.
-After all reviews were submitted, the reviewers held an online discussion of their impressions and ratings.
-Based on the review ratings and reviewer discussions, we decided to accept 3 full papers and 9 lightning talks.
-
-
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
