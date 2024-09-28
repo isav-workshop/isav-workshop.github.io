@@ -37,7 +37,8 @@ p { text-align: justify; }
  In conjunction with:  
 [SC24, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc24.supercomputing.org) <br>
 <br>
-Sunday, 17 November 2024, 2 pm - 5:30 pm EDT <br>
+[Sunday, 17 November 2024, 2 pm - 5:30 pm EST, Room B301](https://sc24.conference-program.com/session/?sess=sess743)
+<br>
 
 </p>
 
