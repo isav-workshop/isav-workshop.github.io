@@ -113,7 +113,7 @@ All paper submissions that receive favorable reviews will be included as part of
 14 Aug 2024        | Paper submission deadline (second extension)
 06 Sep 2024        | Author notification
 27 Sep 2024        | Camera ready copy due (note: this deadline is FIRM)
-17 Nov 2024        | [ISAV'24 workshop at SC24](https://sc24.conference-program.com/presentation/?id=wksp140&sess=sess360)
+17 Nov 2024        | [ISAV'24 workshop at SC24](https://sc24.conference-program.com/session/?sess=sess743)
 
 
 ## Committees and Chairs
