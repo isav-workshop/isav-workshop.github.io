@@ -37,7 +37,8 @@ p { text-align: justify; }
  In conjunction with:  
 [SC24, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc24.supercomputing.org) <br>
 <br>
-Sunday, 17 November 2024, 2 pm - 5:30 pm EDT <br>
+[Sunday, 17 November 2024, 2 pm - 5:30 pm EST, Room B301](https://sc24.conference-program.com/session/?sess=sess743)
+<br>
 
 </p>
 
@@ -112,7 +113,7 @@ All paper submissions that receive favorable reviews will be included as part of
 14 Aug 2024        | Paper submission deadline (second extension)
 06 Sep 2024        | Author notification
 27 Sep 2024        | Camera ready copy due (note: this deadline is FIRM)
-Nov 2024           | ISAV'24 workshop at SC24
+17 Nov 2024        | [ISAV'24 workshop at SC24](https://sc24.conference-program.com/session/?sess=sess743)
 
 
 ## Committees and Chairs
