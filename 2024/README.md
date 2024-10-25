@@ -149,7 +149,31 @@ All paper submissions that receive favorable reviews will be included as part of
 
 #### Program Committee
 
-To be announced soon
+  * Andrew Bauer - *US Army Corps of Engineers*
+  * Julien Bigot - *French Alternative Energies and Atomic Energy Commission (CEA)*
+  * Roba Binyahib - *Intel Corporation*
+  * Hank Childs - *University of Oregon*
+  * Philip Davis - *University of Utah, Scientific Computing and Imaging Institute (SCI); Rutgers University*
+  * Soumya Dutta - *Indian Institute of Technology (IIT), Kanpur*
+  * Ke Fan (early career member) - *University of Illinois at Chicago*
+  * Kevin S Griffin - *NVIDIA Corporation*
+  * Pascal Grosset - *Los Alamos National Laboratory (LANL)*
+  * Amal Gueroudji - *Argonne National Laboratory (ANL)*
+  * Xuan Huang (early career member) - *SCI Institute, University of Utah, Scientific Computing and Imaging Institute (SCI)*
+  * Joseph A. Insley - *Argonne National Laboratory (ANL), Northern Illinois University*
+  * Kress James - *King Abdullah University of Science and Technology (KAUST)*
+  * Samuel Li - *National Center for Atmospheric Research (NCAR)*
+  * Zhimin Li (early career member) - *University of Utah*
+  * Thomas J. Marrinan - *University of St. Thomas, Argonne National Laboratory*
+  * Nicole Marsaglia - *Lawrence Livermore National Laboratory (LLNL), Energy Efficient High Performance Computing Working Group EEHPCWG)*
+  * Isaac Nealey - *University of California, San Diego (UCSD)*
+  * Jorji Nonaka - *RIKEN*
+  * Jesus Pulido - *Los Alamos National Laboratory (LANL)*
+  * Andrea Schnorr - *University of Kaiserslautern-Landau*
+  * Thomas Theussl - *King Abdullah University of Science and Technology (KAUST)*
+  * Corey Wetterer-Nelson - *Kitware*
+  * Qi Wu - *NVIDIA Corporation*
+  * Abhishek Yenpure - *Kitware*
 
 #### Best Paper Committee
 
