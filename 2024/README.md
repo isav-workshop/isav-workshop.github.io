@@ -177,7 +177,10 @@ All paper submissions that receive favorable reviews will be included as part of
 
 #### Best Paper Committee
 
-TBD
+  * Julien Bigot - *French Alternative Energies and Atomic Energy Commission (CEA)*
+  * Philip Davis - *University of Utah, Scientific Computing and Imaging Institute (SCI); Rutgers University*
+  * Samuel Li - *National Center for Atmospheric Research (NCAR)*
+  * Thomas Theussl - *King Abdullah University of Science and Technology (KAUST)*
 
 ### Contact Us
  * Matt Larsen, General Chair, matt at luminarycloud dot com
