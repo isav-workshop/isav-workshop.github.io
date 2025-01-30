@@ -53,54 +53,25 @@ ISAV is a community of in situ developers, practitioners, researchers, and users
 Through presentations and discussions of research findings, lessons learned, and early ideas, ISAV illuminates new requirements and gaps driven by science and engineering applications, and fosters the community members and knowledge base around the development and application of in situ methods with its peer-reviewed proceedings.
 
 ## Participation/Call for Papers
-We invite two types of submissions to ISAV 2025: short papers and lightning talks.
-(1) short, 5-page (+references) papers present research results, that identify opportunities or challenges, and present case studies/best practices for in situ methods/infrastructure in the areas of data management, analysis and visualization;
-Short papers will appear in the workshop proceedings and authors will be invited to give an oral presentation of 15 to 20 minutes; (2) lightning presentation submissions, consisting of a 1- or 2-page (+references) submission, and a brief oral presentation of 5 to 10 minutes at the workshop.
-Lightning round submissions are not included in the workshop proceedings.
 
-Submissions of both types are welcome that fall within one or more areas of interest.
-Areas of interest for ISAV include, but are not limited to:
-* **In situ infrastructures:**  Current Systems: production quality, research prototypes; Novel designs for systems and libraries; Challenges; Opportunities; Gaps
-* **System resources, hardware, and emerging architectures:** Elasticity, Cloud-, HPC-, and/or Edge-based approaches; Enabling Hardware; Hardware and architectures that provide opportunities for In situ processing, such as burst buffers, staging computations on I/O nodes, sharing cores within a node for both simulation and in situ processing; Efficient use of heterogeneous architectures.
-* **Methods/algorithms:** Best practices & new techniques; Analysis: AI/ML, feature detection, statistical methods, temporal methods, geometric and topological methods; Visualization: information visualization, scientific visualization, time-varying methods, AI/ML methods (e.g., image synthesis); Data reduction/compression.
-* **Case Studies and Data Sources:** Examples/case studies of solving a specific science challenge with in situ methods/infrastructure; In situ methods/systems applied to data from simulations and/or experiments/observations.
-* **Simulation and Workflows:**  Integration: data modeling, software-engineering; Resilience: error detection, fault recovery; Workflows for supporting complex in situ processing pipelines.
-* **Requirements and Usability:** Reproducibility, provenance and metadata; Interplay and evolution of FAIR data, workflow and software practices for in situ; Using in situ to enable rapid and flexible post-processing; Simplified access to extreme heterogeneous resources; real-time coupling of computing / "digital twins" with physical measurements.
-
-For the submissions we are not only looking for success stories, but are also particularly interested in those experiments that started with a certain goal or idea in mind, but later were shattered by reality or insufficient hardware/software. What in situ methods are used or needed in practice of scientific/academic/industry with HPC, cloud and edge computing? What are the reasons for adoption or avoidance of methods and products and where should in situ processing go from here?
+Coming soon!
 
 ## Review Process
 
 All submissions will undergo a peer-review process consisting of three reviews by experts in the field, and evaluated according to relevance to the workshop theme, technical soundness, creativity, originality, and impact of method/results.
-Lightning round submissions will be evaluated primarily for relevance to the workshop.
 
 ## Submission Process
 
-Authors are invited to submit papers of at most 5 pages in PDF format, excluding references, and lightning presentations of at most 2 pages in PDF format, excluding references.
-Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0 and higher) and formatted for 8.5in x 11in (U.S. Letter).
-
-In earlier editions of the workshop a +1 spillover page for references was granted during review.
-Note that this changed and is now 5 + 1 from the beginning.
-
-All authors must use the new proceedings templates and the CCS2012 guide that are available at:
-[https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html).
-
-We believe that reproducible science is essential, and that SC should be a leader in this effort.
-As a consequence, ISAV 2025 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information.
-While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper.
-For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
-
-Papers must be self-contained and provide the technical substance required for the program committee to evaluate their contributions.
-Submitted papers must be original work that has not appeared in and is not under consideration for another conference or a journal.
+Coming soon!
 
 
 ## Publication in proceedings, presentation at the workshop
 
-All paper submissions that receive favorable reviews will be included as part of the workshop proceedings, which will be published. Lightning round submissions and the keynote speaker abstract will not be included as part of the proceedings. Subject to the constraints of workshop length, some subset of the accepted publications will be invited to give a brief oral presentation at the workshop. The exact number of such presentations and their length will be determined after the review process has been completed.
+All paper submissions that receive favorable reviews will be included as part of the workshop proceedings, which will be published. Subject to the constraints of workshop length, some subset of the accepted publications will be invited to give a brief oral presentation at the workshop. The exact number of such presentations and their length will be determined after the review process has been completed.
 
 ## Timeline/Important Dates
 
-Coming soon
+Coming soon!
 
 ## Committees and Chairs
 
@@ -109,6 +80,7 @@ Coming soon
   * General chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
   * General co-chair: Will Usher, *Luminary Cloud, USA*
   * Program chair: Estelle Dirand, *TotalEnergies, France*
+  * Program co-chair: Victor Mateevitsi, *Argonne National Laboratory, USA*
   * Publicity chair: Earl Duque, *Intelligent Light, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
@@ -127,5 +99,5 @@ TBD
 TBD
 
 ### Contact Us
- * Axel Huebl, General Chair
- * Estelle Dirand, Program Chair
+ * Axel Huebl, General Chair, axelhuebl at lbl dot gov
+ * Estelle Dirand, Program Chair, estelle.dirand at totalenergies dot com
