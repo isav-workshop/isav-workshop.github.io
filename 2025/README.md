@@ -1,5 +1,5 @@
 ---
-title: "ISAV 2025: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization"
+title: "ISAV 2025: In Situ AI, Analysis and Visualization"
 description: >
   Information for the SC'25 conference ISAV workshop
 year: 2025
@@ -28,13 +28,13 @@ p { text-align: justify; }
 
 <div id="isav-sc25-banner"> </div>
 
-# ISAV 2025: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization
+# ISAV 2025: In Situ AI, Analysis and Visualization
 
 <p style="text-align: left;" markdown="1">
 
 <br>
 
-In conjunction with:
+*Proposed workshop* -- In conjunction with:
 [SC25, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc25.supercomputing.org)
 <br>
 
