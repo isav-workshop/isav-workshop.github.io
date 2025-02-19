@@ -11,8 +11,8 @@ permalink: /2025/
 
 #isav-sc25-banner {
     margin: 2px 2px 2px 2px;
-    background: url("/2025/isav25_logo.png") 0 0 no-repeat;
-    height: 130px;
+    background: url("/2025/isav25_logo_100h.png") 0 0 no-repeat;
+    height: 100px; 
     border: 0px solid white;
     border-bottom: 0px solid beige;
     align: center;
