@@ -29,3 +29,5 @@ cmake-build-*/
 .DS_Store
 .AppleDouble
 .LSOverride
+_site
+*.swp
