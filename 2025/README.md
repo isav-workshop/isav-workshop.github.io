@@ -35,7 +35,7 @@ p { text-align: justify; }
 
 <br>
 
-*Proposed workshop* -- In conjunction with:
+In conjunction with:
 [SC25, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc25.supercomputing.org)
 <br>
 
@@ -55,7 +55,19 @@ Through presentations and discussions of research findings, lessons learned, and
 
 ## Participation/Call for Papers
 
-Coming soon!
+In its 12th year ISAV is expanding in scope and technical focus, and now invites full paper submissions up to 10 pages (including references) and works on in situ AI/ML training or inference. ISAV also continues to invite short papers (5 page + 1 page references) and lightning talk abstracts (1 page).
+
+Full papers should present research results, identity opportunities or challenges, or present case studies/best practices for in situ methods. Short papers may also document late breaking ideas & early progress on novel concepts. Lightning talks are encouraged to present preliminary works or ideas to foster discussion with the community. Full and short papers will appear in the workshop proceedings and authors will be invited to give an oral presentation at the workshop; lightning talks will be invited to give brief oral presentations at the workshop.
+
+Submissions of all types may identify opportunities, challenges and best practices for in situ AI/ML, in situ analysis and in situ visualization. They may propose new methods and techniques, provide positions, or experience reports on in situ analysis, learning and visualization. Areas of interest for ISAV include, but are not limited to:
+
+* Methods, Algorithms and Synthesis between HPC & ML: In situ analysis (feature detection, data reduction/compression, data summarization, ML training) and scientific visualization using data-driven, surrogate-assisted, statistical, temporal, geometric, or time-varying methods.
+* Applications and Workflows: Applications (simulations, data processing, scientific user facilities) and integrations into digital twins.  Workflows for supporting complex in situ processing pipelines (incl. enabling accelerated post-processing and elasticity), their resilience (error detection, data congestion, fault recovery) and reproducibility.
+* Scalability Requirements: Scalability, resource utilization, data flow, and simplified access to extreme heterogeneous resources.  Real-time coupling of data (modeled or measured), surrogates and algorithms.
+* Case Studies, Data Sources and Best Practices & Usability: Examples/case studies of solving a specific science challenge with in situ methods/infrastructure.  In situ methods/systems applied to data from simulations, and/or observations/experiments.  Deployments & software engineering.
+* Software Evolution & Standardization: In situ libraries from research prototypes to production quality. Challenges, opportunities, gaps in existing capabilities. API designs and development of community standards.
+* Enabling Hardware & Emerging Architectures: Hardware & emerging system architectures that provide opportunities for in situ processing.  Efficient use of hardware accelerators and heterogeneous architectures, incl. HPC, Data Center or Edge.
+
 
 ## Review Process
 
@@ -63,7 +75,13 @@ All submissions will undergo a peer-review process consisting of three reviews b
 
 ## Submission Process
 
-Coming soon!
+Authors are invited to submit full or short papers, or lightning talk abstracts. Full papers should be 10 pages (including references), short papers should be 5 pages + 1 for references. Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0 and higher) and formatted for 8.5in x 11in (U.S. Letter).
+
+All authors must use the new proceedings templates and the CCS2012 guide that are available at: https://www.ieee.org/conferences/publishing/templates.html.
+
+We believe that reproducible science is essential, and that SC should be a leader in this effort. As a consequence, ISAV 2025 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information. While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper. For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
+
+Papers must be self-contained and provide the technical substance required for the program committee to evaluate their contributions. Submitted papers must be original work that has not appeared in and is not under consideration for another conference or a journal.
 
 
 ## Publication in proceedings, presentation at the workshop
@@ -72,7 +90,11 @@ All paper submissions that receive favorable reviews will be included as part of
 
 ## Timeline/Important Dates
 
-Coming soon!
+:------------------|:--------------------------------------
+08 Aug 2025        | Paper submission deadline
+05 Sep 2025        | Author notification
+29 Sep 2025        | Camera ready copy due (note: this deadline is FIRM)
+Nov 2025           | ISAV'25 workshop at SC25
 
 ## Committees and Chairs
 
@@ -101,4 +123,5 @@ TBD
 
 ### Contact Us
  * Axel Huebl, General Chair, axelhuebl at lbl dot gov
+ * Will Usher, General Co-Chair, will at willusher dot io
  * Estelle Dirand, Program Chair, estelle.dirand at totalenergies dot com
