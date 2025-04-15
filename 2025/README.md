@@ -104,7 +104,7 @@ Nov 2025           | ISAV'25 workshop at SC25
   * General co-chair: Will Usher, *Luminary Cloud, USA*
   * Program chair: Estelle Dirand, *TotalEnergies, France*
   * Program co-chair: Victor Mateevitsi, *Argonne National Laboratory, USA*
-  * Publicity chair: Earl Duque, *Intelligent Light, USA*
+  * Publicity chair: Matthew Larsen, *Luminary Cloud, US*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
   * At-large Chair: E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
