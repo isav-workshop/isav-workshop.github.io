@@ -102,8 +102,8 @@ Nov 2025           | ISAV'25 workshop at SC25
 
   * General chair: Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
   * General co-chair: Will Usher, *Luminary Cloud, USA*
-  * Program chair: Estelle Dirand, *TotalEnergies, France*
-  * Program co-chair: Victor Mateevitsi, *Argonne National Laboratory, USA*
+  * Program chair: Victor Mateevitsi, *Argonne National Laboratory, USA*
+  * Program co-chair: Jens Henrik Göbbert, *Jülich Supercomputing Centre*
   * Publicity chair: Matthew Larsen, *Luminary Cloud, US*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
