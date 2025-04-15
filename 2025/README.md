@@ -55,7 +55,7 @@ Through presentations and discussions of research findings, lessons learned, and
 
 ## Participation/Call for Papers
 
-In its 12th year ISAV is expanding in scope and technical focus, and now invites full paper submissions up to 10 pages (including references) and works on in situ AI/ML training or inference. ISAV also continues to invite short papers (5 page + 1 page references) and lightning talk abstracts (1 page).
+In its 11th year ISAV is expanding in scope and technical focus, and now invites full paper submissions up to 10 pages (including references) and works on in situ AI/ML training or inference. ISAV also continues to invite short papers (5 page + 1 page references) and lightning talk abstracts (1 page).
 
 Full papers should present research results, identity opportunities or challenges, or present case studies/best practices for in situ methods. Short papers may also document late breaking ideas & early progress on novel concepts. Lightning talks are encouraged to present preliminary works or ideas to foster discussion with the community. Full and short papers will appear in the workshop proceedings and authors will be invited to give an oral presentation at the workshop; lightning talks will be invited to give brief oral presentations at the workshop.
 
