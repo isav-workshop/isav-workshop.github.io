@@ -54,6 +54,7 @@ In situ methods are in high demand:
 * in system-scale 3D visualization for the latest Exascale supercomputers,
 * in cloud products providing responsive user experiences,
 * in tightly coupled digital twins, and in computational sciences.
+
 Each one of these examples has a different set of requirements in response time, data throughput and complexity of data pipelines, and more exploration in the in situ space is needed to address multifaceted goals: (1) to preserve important elements of simulations, (2) to significantly reduce the data needed to preserve these elements, (3) to offer as much flexibility as possible for post-processing exploration, and (4) to accelerate the gathering of insights to be fast enough to make timely decisions based on it.
 
 
