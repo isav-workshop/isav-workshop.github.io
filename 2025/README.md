@@ -47,13 +47,13 @@ As HPC platforms and applications increase significantly in size, complexity, an
 A well-known, yet challenging, approach is in situ processing – performing as much analysis as possible while computed data is still resident in memory.
 
 This is the 11th year of the ISAV workshop, and we are expanding the workshop's scope to In Situ AI, Analysis and Visualization.
-Furthemore, we are expanding the workshop's technical program to now accept full paper submissions.
+Furthermore, we are expanding the workshop's technical program to now accept full paper submissions.
 We celebrate that in situ processing has evolved from research efforts to a central component in supercomputer, cloud and edge applications.
 In situ methods are in high demand:
-in training ML/AI surrogate models or leveraging ML/AI models for analysis,
-in system-scale 3D visualization for the latest Exascale supercomputers,
-in cloud products providing responsive user experiences,
-in tightly coupled digital twins, and in computational sciences.
+* in training ML/AI surrogate models or leveraging ML/AI models for analysis,
+* in system-scale 3D visualization for the latest Exascale supercomputers,
+* in cloud products providing responsive user experiences,
+* in tightly coupled digital twins, and in computational sciences.
 Each one of these examples has a different set of requirements in response time, data throughput and complexity of data pipelines, and more exploration in the in situ space is needed to address multifaceted goals: (1) to preserve important elements of simulations, (2) to significantly reduce the data needed to preserve these elements, (3) to offer as much flexibility as possible for post-processing exploration, and (4) to accelerate the gathering of insights to be fast enough to make timely decisions based on it.
 
 
