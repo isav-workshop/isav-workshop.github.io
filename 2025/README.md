@@ -46,11 +46,21 @@ In conjunction with:
 As HPC platforms and applications increase significantly in size, complexity, and heterogeneity, one major challenge is the widening gap between computation and our ability to gain insight from extreme-scale data and make timely, data-driven decisions.
 A well-known, yet challenging, approach is in situ processing – performing as much analysis as possible while computed data is still resident in memory.
 
-This is the 11th year of the In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV) workshop. We celebrate that in situ processing has evolved from research efforts to a central component in supercomputer, cloud and edge applications.
-In situ methods are in high demand: in system-scale 3D visualization for the latest Exascale supercomputers, in cloud products providing responsive user experiences, in tightly coupled digital twins, and in computational sciences.
+This is the 11th year of the ISAV workshop, and we are expanding the workshop's scope to In Situ AI, Analysis and Visualization.
+Furthermore, we are expanding the workshop's technical program to now accept full paper submissions.
+We celebrate that in situ processing has evolved from research efforts to a central component in supercomputer, cloud and edge applications.
+In situ methods are in high demand:
+* in training ML/AI surrogate models or leveraging ML/AI models for analysis,
+* in system-scale 3D visualization for the latest Exascale supercomputers,
+* in cloud products providing responsive user experiences,
+* in tightly coupled digital twins, and in computational sciences.
+
 Each one of these examples has a different set of requirements in response time, data throughput and complexity of data pipelines, and more exploration in the in situ space is needed to address multifaceted goals: (1) to preserve important elements of simulations, (2) to significantly reduce the data needed to preserve these elements, (3) to offer as much flexibility as possible for post-processing exploration, and (4) to accelerate the gathering of insights to be fast enough to make timely decisions based on it.
 
-ISAV is a community of in situ developers, practitioners, researchers, and users of in situ methods and infrastructure, connecting industry, government laboratories, and academia across all career levels.
+
+ISAV'25 brings together the broader HPC community and researchers, developers and practitioners from industry, academia, and government laboratories who are developing, applying, and deploying scalable in situ methods at any high performance platform.
+The goal is to present research findings, lessons learned, and insights related to developing and applying in situ methods across a range of science and engineering applications in scalable environments; to discuss topics like opportunities presented by new workflows in AI/ML, modeling, data processing, emerging architectures, infrastructure needs, requirements, and gaps, and experiences to foster and enable in situ AI, analysis, and visualization.
+Since its inception in 2015, ISAV has fostered and catered a diverse audience and supported early career members, becoming a "center of gravity" for researchers, practitioners, and users/consumers of in situ methods, software and integrations in the HPC space.
 Through presentations and discussions of research findings, lessons learned, and early ideas, ISAV illuminates new requirements and gaps driven by science and engineering applications, and fosters the community members and knowledge base around the development and application of in situ methods with its peer-reviewed proceedings.
 
 ## Participation/Call for Papers
