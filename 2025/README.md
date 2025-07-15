@@ -93,6 +93,9 @@ We believe that reproducible science is essential, and that SC should be a leade
 
 Papers must be self-contained and provide the technical substance required for the program committee to evaluate their contributions. Submitted papers must be original work that has not appeared in and is not under consideration for another conference or a journal.
 
+Papers may be submitted using this [link](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopISAVPaperSubmission&site=sc25) (login required).
+A preview of the paper submission form is available at this [link](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopISAVPaperSubmission&site=sc25
+).
 
 ## Publication in proceedings, presentation at the workshop
 
