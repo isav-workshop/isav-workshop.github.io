@@ -38,6 +38,8 @@ p { text-align: justify; }
 In conjunction with:
 [SC25, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc25.supercomputing.org)
 <br>
+[Sunday, 16 November 2025, 9:00am - 12:30pm CST, Room 242](https://sc25.conference-program.com/session/?sess=sess216)
+<br>
 
 </p>
 
