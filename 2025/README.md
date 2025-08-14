@@ -89,7 +89,7 @@ All submissions will undergo a peer-review process consisting of three reviews b
 
 Authors are invited to submit full or short papers, or lightning talk abstracts. Full papers should be 10 pages (including references), short papers should be 5 pages + 1 for references. Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0 and higher) and formatted for 8.5in x 11in (U.S. Letter).
 
-All authors must use the new proceedings templates and the CCS2012 guide that are available at: https://www.ieee.org/conferences/publishing/templates.html.
+All authors must use the new proceedings templates available at: https://www.acm.org/publications/proceedings-template .
 
 We believe that reproducible science is essential, and that SC should be a leader in this effort. As a consequence, ISAV 2025 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information. While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper. For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
 
