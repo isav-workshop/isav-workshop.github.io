@@ -113,7 +113,7 @@ Please see the [instructions for authors of workshop papers from SC](/2025/SC25 
 ~~08 Aug 2025~~    | Paper submission deadline
 ~~15 Aug 2025~~    | Paper submission deadline (extended)
 05 Sep 2025        | Author notification
-29 Sep 2025        | Camera ready copy due (note: this deadline is FIRM)
+22 Sep 2025        | Camera ready copy due (note: this deadline is FIRM)
 Nov 2025           | ISAV'25 workshop at SC25
 
 ## Committees and Chairs
