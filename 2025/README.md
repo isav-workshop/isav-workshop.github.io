@@ -103,6 +103,10 @@ A preview of the paper submission form is available at this [link](https://submi
 
 All paper submissions that receive favorable reviews will be included as part of the workshop proceedings, which will be published. Subject to the constraints of workshop length, some subset of the accepted publications will be invited to give a brief oral presentation at the workshop. The exact number of such presentations and their length will be determined after the review process has been completed.
 
+### Instructions for Authors of Accepted Papers
+
+Please see the [instructions for authors of workshop papers from SC](/2025/SC25 Workshop Proceedings Instructions for Authors.pdf)
+
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
