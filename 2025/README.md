@@ -131,7 +131,17 @@ Nov 2025           | ISAV'25 workshop at SC25
 
 #### Organizing Committee
 
-Coming soon
+The above mentioned chairs plus:
+
+  * Estelle Dirand, *TotalEnergies, France*
+  * Earl Duque, *Intelligent Light, USA*
+  * Christoph Garth, *Technische Universität Kaiserslautern, Germany*
+  * Kenneth Moreland, *Oak Ridge National Laboratory, USA*
+  * Patrick O'Leary, *Kitware, Inc., USA*
+  * Guido Reina, *University of Stuttgart, Germany*
+  * Will Usher, *Luminary Cloud, USA*
+  * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
+  * Sean Ziegeler, *US Department of Defense HPC, USA*
 
 #### Program Committee
 
@@ -166,4 +176,4 @@ TBD
 ### Contact Us
  * Axel Huebl, General Chair, axelhuebl at lbl dot gov
  * Will Usher, General Co-Chair, will at willusher dot io
- * Estelle Dirand, Program Chair, estelle.dirand at totalenergies dot com
+ * Victor Mateevitsi, Program Chair, vmateevitsi at anl dot gov
