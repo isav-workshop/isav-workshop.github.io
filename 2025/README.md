@@ -112,9 +112,9 @@ Please see the [instructions for authors of workshop papers from SC](/2025/SC25 
 :------------------|:--------------------------------------
 ~~08 Aug 2025~~    | Paper submission deadline
 ~~15 Aug 2025~~    | Paper submission deadline (extended)
-05 Sep 2025        | Author notification
-22 Sep 2025        | Camera ready copy due (note: this deadline is FIRM)
-Nov 2025           | ISAV'25 workshop at SC25
+~~05 Sep 2025~~    | Author notification
+~~22 Sep 2025~~    | Camera ready copy due (note: this deadline is FIRM)
+6 Nov 2025         | ISAV'25 workshop at SC25
 
 ## Committees and Chairs
 
@@ -152,8 +152,8 @@ The above mentioned chairs plus:
   * Ke	Fan, *University of Illinois Chicago*
   * Kevin S	Griffin, *NVIDIA Corporation*
   * Charles	Gueunet, *Kitware Inc*
-  * Mengjiao	Han, *Argonne National Laboratory (ANL)*
-  * Xuan	Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
+  * Mengjiao Han, *Argonne National Laboratory (ANL)*
+  * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
   * Zhimin	Li, *University of Utah*
   * Thomas J.	Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
   * Peter	Messmer, *NVIDIA Corporation*
@@ -171,7 +171,10 @@ The above mentioned chairs plus:
 
 #### Best Paper Committee
 
-TBD
+  * Jefferson	Amstutz, *NVIDIA Corporation*
+  * Sean	Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
+  * Naohisa	Sakamoto, *Kobe University, Japan*
+  * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
 
 ### Contact Us
  * Axel Huebl, General Chair, axelhuebl at lbl dot gov
