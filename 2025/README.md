@@ -174,7 +174,6 @@ The above mentioned chairs plus:
   * Jefferson Amstutz, *NVIDIA Corporation*
   * Sean Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
   * Naohisa Sakamoto, *Kobe University, Japan*
-  * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
 
 ### Contact Us
  * Axel Huebl, General Chair, axelhuebl at lbl dot gov
