@@ -145,35 +145,35 @@ The above mentioned chairs plus:
 
 #### Program Committee
 
-  * Jefferson	Amstutz, *NVIDIA Corporation*
-  * Dirk	Baker, *Helmholtz-Centre for Environmental Research - UFZ*
-  * Riccardo	Balin, *Argonne National Laboratory (ANL)*
-  * Landon Richard	Dyken, *University of Illinois Chicago*
-  * Ke	Fan, *University of Illinois Chicago*
-  * Kevin S	Griffin, *NVIDIA Corporation*
-  * Charles	Gueunet, *Kitware Inc*
+  * Jefferson Amstutz, *NVIDIA Corporation*
+  * Dirk Baker, *Helmholtz-Centre for Environmental Research - UFZ*
+  * Riccardo Balin, *Argonne National Laboratory (ANL)*
+  * Landon Richard Dyken, *University of Illinois Chicago*
+  * Ke Fan, *University of Illinois Chicago*
+  * Kevin S Griffin, *NVIDIA Corporation*
+  * Charles Gueunet, *Kitware Inc*
   * Mengjiao Han, *Argonne National Laboratory (ANL)*
   * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
-  * Zhimin	Li, *University of Utah*
-  * Thomas J.	Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
-  * Peter	Messmer, *NVIDIA Corporation*
-  * Paul A.	Navratil, *Texas Advanced Computing Center (TACC), University of Texas*
-  * Patrick	O'Leary, *Kitware Inc*
-  * David	Pugmire, *Oak Ridge National Laboratory (ORNL)*
-  * Alejandro	Ribes, *EDF Research and Development*
-  * Naohisa	Sakamoto, *Kobe University, Japan*
-  * Andres	Sewell, *Utah State University, Argonne National Laboratory (ANL)*
-  * Sergei	Shudler, *Lawrence Livermore National Laboratory*
-  * Tom	Vierjahn, *Westphalian University of Applied Sciences*
-  * Corey	Wetterer-Nelson, *Kitware, Inc.*
-  * Ayman	Yousef, *Duke University*
-  * Sean	Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
+  * Zhimin Li, *University of Utah*
+  * Thomas J. Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
+  * Peter Messmer, *NVIDIA Corporation*
+  * Paul A. Navratil, *Texas Advanced Computing Center (TACC), University of Texas*
+  * Patrick O'Leary, *Kitware Inc*
+  * David Pugmire, *Oak Ridge National Laboratory (ORNL)*
+  * Alejandro Ribes, *EDF Research and Development*
+  * Naohisa Sakamoto, *Kobe University, Japan*
+  * Andres Sewell, *Utah State University, Argonne National Laboratory (ANL)*
+  * Sergei Shudler, *Lawrence Livermore National Laboratory*
+  * Tom Vierjahn, *Westphalian University of Applied Sciences*
+  * Corey Wetterer-Nelson, *Kitware, Inc.*
+  * Ayman Yousef, *Duke University*
+  * Sean Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
 
 #### Best Paper Committee
 
-  * Jefferson	Amstutz, *NVIDIA Corporation*
-  * Sean	Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
-  * Naohisa	Sakamoto, *Kobe University, Japan*
+  * Jefferson Amstutz, *NVIDIA Corporation*
+  * Sean Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
+  * Naohisa Sakamoto, *Kobe University, Japan*
   * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
 
 ### Contact Us
