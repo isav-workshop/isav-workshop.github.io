@@ -112,9 +112,9 @@ Please see the [instructions for authors of workshop papers from SC](/2025/SC25 
 :------------------|:--------------------------------------
 ~~08 Aug 2025~~    | Paper submission deadline
 ~~15 Aug 2025~~    | Paper submission deadline (extended)
-05 Sep 2025        | Author notification
-22 Sep 2025        | Camera ready copy due (note: this deadline is FIRM)
-Nov 2025           | ISAV'25 workshop at SC25
+~~05 Sep 2025~~    | Author notification
+~~22 Sep 2025~~    | Camera ready copy due (note: this deadline is FIRM)
+6 Nov 2025         | ISAV'25 workshop at SC25
 
 ## Committees and Chairs
 
@@ -145,33 +145,35 @@ The above mentioned chairs plus:
 
 #### Program Committee
 
-  * Jefferson	Amstutz, *NVIDIA Corporation*
-  * Dirk	Baker, *Helmholtz-Centre for Environmental Research - UFZ*
-  * Riccardo	Balin, *Argonne National Laboratory (ANL)*
-  * Landon Richard	Dyken, *University of Illinois Chicago*
-  * Ke	Fan, *University of Illinois Chicago*
-  * Kevin S	Griffin, *NVIDIA Corporation*
-  * Charles	Gueunet, *Kitware Inc*
-  * Mengjiao	Han, *Argonne National Laboratory (ANL)*
-  * Xuan	Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
-  * Zhimin	Li, *University of Utah*
-  * Thomas J.	Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
-  * Peter	Messmer, *NVIDIA Corporation*
-  * Paul A.	Navratil, *Texas Advanced Computing Center (TACC), University of Texas*
-  * Patrick	O'Leary, *Kitware Inc*
-  * David	Pugmire, *Oak Ridge National Laboratory (ORNL)*
-  * Alejandro	Ribes, *EDF Research and Development*
-  * Naohisa	Sakamoto, *Kobe University, Japan*
-  * Andres	Sewell, *Utah State University, Argonne National Laboratory (ANL)*
-  * Sergei	Shudler, *Lawrence Livermore National Laboratory*
-  * Tom	Vierjahn, *Westphalian University of Applied Sciences*
-  * Corey	Wetterer-Nelson, *Kitware, Inc.*
-  * Ayman	Yousef, *Duke University*
-  * Sean	Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
+  * Jefferson Amstutz, *NVIDIA Corporation*
+  * Dirk Baker, *Helmholtz-Centre for Environmental Research - UFZ*
+  * Riccardo Balin, *Argonne National Laboratory (ANL)*
+  * Landon Richard Dyken, *University of Illinois Chicago*
+  * Ke Fan, *University of Illinois Chicago*
+  * Kevin S Griffin, *NVIDIA Corporation*
+  * Charles Gueunet, *Kitware Inc*
+  * Mengjiao Han, *Argonne National Laboratory (ANL)*
+  * Xuan Huang, *University of Utah, Scientific Computing and Imaging Institute (SCI)*
+  * Zhimin Li, *University of Utah*
+  * Thomas J. Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
+  * Peter Messmer, *NVIDIA Corporation*
+  * Paul A. Navratil, *Texas Advanced Computing Center (TACC), University of Texas*
+  * Patrick O'Leary, *Kitware Inc*
+  * David Pugmire, *Oak Ridge National Laboratory (ORNL)*
+  * Alejandro Ribes, *EDF Research and Development*
+  * Naohisa Sakamoto, *Kobe University, Japan*
+  * Andres Sewell, *Utah State University, Argonne National Laboratory (ANL)*
+  * Sergei Shudler, *Lawrence Livermore National Laboratory*
+  * Tom Vierjahn, *Westphalian University of Applied Sciences*
+  * Corey Wetterer-Nelson, *Kitware, Inc.*
+  * Ayman Yousef, *Duke University*
+  * Sean Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
 
 #### Best Paper Committee
 
-TBD
+  * Jefferson Amstutz, *NVIDIA Corporation*
+  * Sean Ziegeler, *US Department of Defense HPC Modernization Program, Department of Defense High Performance Computing Modernization Program (DoD HPCMP)*
+  * Naohisa Sakamoto, *Kobe University, Japan*
 
 ### Contact Us
  * Axel Huebl, General Chair, axelhuebl at lbl dot gov
