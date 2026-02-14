@@ -157,7 +157,6 @@ The above mentioned chairs plus:
   * Zhimin Li, *University of Utah*
   * Thomas J. Marrinan, *University of St. Thomas, Argonne National Laboratory (ANL)*
   * Peter Messmer, *NVIDIA Corporation*
-  * Paul A. Navratil, *Texas Advanced Computing Center (TACC), University of Texas*
   * Patrick O'Leary, *Kitware Inc*
   * David Pugmire, *Oak Ridge National Laboratory (ORNL)*
   * Alejandro Ribes, *EDF Research and Development*
