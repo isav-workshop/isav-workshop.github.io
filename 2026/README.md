@@ -94,8 +94,8 @@ Week of SC 2026    | ISAV'26 workshop at SC26
   * General chair: Will Usher, *Luminary Cloud, USA*
   * General co-chair:  Victor Mateevitsi, *Argonne National Laboratory, USA*
   * Program chair:  Jens Henrik Göbbert, *Jülich Supercomputing Centre*
-  * Program co-chair:
-  * Publicity chair: Matthew Larsen, *Luminary Cloud, US*
+  * Program co-chair: Nicole Marsaglia, *Lawrence Livermore, National Laboratory, USA*
+  * Publicity chair: Matthew Larsen, *Luminary Cloud, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
   * Early Career Program Committee Chair: Silvio Rizzi, *Argonne National Laboratory, USA*
   * At-large Chair: E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
