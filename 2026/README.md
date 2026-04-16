@@ -65,7 +65,18 @@ Through presentations and discussions of research findings, lessons learned, and
 
 ## Participation/Call for Papers
 
-Coming soon
+In its 13th year, ISAV continues to invite full paper submissions up to 10 pages (including references), short papers (5 page + 1 page references) and now invites community talks (abstracts, 1 page including references) to widen participation from the in situ community.
+
+Full papers should present research results, identity opportunities or challenges, or present case studies/best practices for in situ methods. Short papers may cover the same topics as full papers, or document late breaking ideas & early progress on novel concepts. Community talks invite members of the in situ community to share early research ideas, hands-on practical learnings, insights into creative solutions, etc., with more emphasis on practical experiences and fostering knowledge sharing at the workshop. Full and short papers will appear in the workshop proceedings and authors will be invited to give an oral presentation at the workshop; community talks will be invited to give brief oral presentations at the workshop.
+
+Submissions of all types may identify opportunities, challenges and best practices for in situ AI/ML, in situ analysis and in situ visualization. Community talks are further encouraged to share hands-on practical learning and creative solutions, etc.. They may propose new methods and techniques, provide positions, or experience reports on in situ analysis, learning and visualization. Areas of interest for ISAV include, but are not limited to:
+* **Methods, Algorithms and Synthesis between HPC & ML:** In situ analysis (feature detection, data reduction/compression, data summarization, ML training) and scientific visualization using data-driven, surrogate-assisted, statistical, temporal, geometric, or time-varying methods.
+* **Applications and Workflows:** Applications (simulations, data processing, scientific user facilities) and integrations into digital twins.  Workflows for supporting complex in situ processing pipelines (incl. enabling accelerated post-processing and elasticity), their resilience (error detection, data congestion, fault recovery) and reproducibility.
+* **Scalability Requirements:** Scalability, resource utilization, data flow, and simplified access to extreme heterogeneous resources.  Real-time coupling of data (modeled or measured), surrogates and algorithms.
+* **Case Studies, Data Sources and Best Practices & Usability:** Examples/case studies of solving a specific science challenge with in situ methods/infrastructure.  In situ methods/systems applied to data from simulations, and/or observations/experiments.  Deployments & software engineering.
+* **Software Evolution & Standardization:** In situ libraries from research prototypes to production quality. Challenges, opportunities, gaps in existing capabilities. API designs and development of community standards.
+* **Enabling Hardware & Emerging Architectures:** Hardware & emerging system architectures that provide opportunities for in situ processing.  Efficient use of hardware accelerators and heterogeneous architectures, incl. HPC, Data Center or Edge.
+
 
 ## Review Process
 
@@ -73,7 +84,7 @@ All submissions will undergo a peer-review process consisting of three reviews b
 
 ## Submission Process
 
-Coming soon
+Coming soon, submissions will be made via linklings as in previous years.
 
 ## Publication in proceedings, presentation at the workshop
 
@@ -82,9 +93,9 @@ All paper submissions that receive favorable reviews will be included as part of
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
-Early Aug 2026     | Paper submission deadline
+Aug 07 2026        | Submission deadline (all types)
 04 Sep 2026        | Author notification
-25 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
+29 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
 Week of SC 2026    | ISAV'26 workshop at SC26
 
 ## Committees and Chairs
