@@ -95,7 +95,7 @@ All paper submissions that receive favorable reviews will be included as part of
 :------------------|:--------------------------------------
 Aug 07 2026        | Submission deadline (all types)
 04 Sep 2026        | Author notification
-29 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
+25 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
 Week of SC 2026    | ISAV'26 workshop at SC26
 
 ## Committees and Chairs
