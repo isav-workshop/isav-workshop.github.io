@@ -65,7 +65,7 @@ Through presentations and discussions of research findings, lessons learned, and
 
 ## Participation/Call for Papers
 
-In its 13th year, ISAV continues to invite full paper submissions up to 10 pages (including references), short papers (5 page + 1 page references) and now invites community talks (abstracts, 1 page including references) to widen participation from the in situ community.
+In its 12th year, ISAV continues to invite full paper submissions up to 10 pages (including references), short papers (5 page + 1 page references) and now invites community talks (abstracts, 1 page including references) to widen participation from the in situ community.
 
 Full papers should present research results, identity opportunities or challenges, or present case studies/best practices for in situ methods. Short papers may cover the same topics as full papers, or document late breaking ideas & early progress on novel concepts. Community talks invite members of the in situ community to share early research ideas, hands-on practical learnings, insights into creative solutions, etc., with more emphasis on practical experiences and fostering knowledge sharing at the workshop. Full and short papers will appear in the workshop proceedings and authors will be invited to give an oral presentation at the workshop; community talks will be invited to give brief oral presentations at the workshop.
 
