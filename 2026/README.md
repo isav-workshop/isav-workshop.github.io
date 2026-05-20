@@ -36,7 +36,8 @@ p { text-align: justify; }
 <br>
 
 In conjunction with:
-[SC26, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc26.supercomputing.org)
+[SC26, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc26.supercomputing.org).
+Sunday, 15 November, 2026, afternoon workshop timeslot.
 <br>
 
 </p>
