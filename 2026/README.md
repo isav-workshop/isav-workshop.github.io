@@ -11,7 +11,7 @@ permalink: /2026/
 
 #isav-sc26-banner {
     margin: 2px 2px 2px 2px;
-    background: url("/2026/isav26_logo.png") 0 0 no-repeat;
+    background: url("/2026/isav26_logo_120h.png") 0 0 no-repeat;
     height: 120px; 
     width: 100%;
     border: 0px solid white;
