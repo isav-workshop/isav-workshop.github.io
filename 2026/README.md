@@ -85,7 +85,15 @@ All submissions will undergo a peer-review process consisting of three reviews b
 
 ## Submission Process
 
-Coming soon, submissions will be made via linklings as in previous years.
+Authors are invited to submit full or short papers, or community talk abstracts. Full papers should be 10 pages (including references), short papers should be 5 pages + 1 for references. Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0 and higher) and formatted for 8.5in x 11in (U.S. Letter). All authors must use the new proceedings templates at [https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates).
+
+We believe that reproducible science is essential, and that SC should be a leader in this effort. As a consequence, ISAV 2025 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information. While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper. For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
+
+Papers must be self-contained and provide the technical substance required for the program committee to evaluate their contributions. Submitted papers must be original work that has not appeared in and is not under consideration for another conference or a journal.
+
+Papers and community talks should be submitted via Linklings at this [link](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopISAVPaperSubmission&site=sc26) (login required).
+A preview of the submission form is available [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopISAVPaperSubmission&site=sc26).
+
 
 ## Publication in proceedings, presentation at the workshop
 
