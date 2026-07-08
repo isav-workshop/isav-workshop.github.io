@@ -37,7 +37,7 @@ p { text-align: justify; }
 
 In conjunction with:
 [SC26, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc26.supercomputing.org).
-Sunday, 15 November, 2026, afternoon workshop timeslot.
+Sunday, 15 November, 2026, 2-5:30pm Central Time.
 <br>
 
 </p>
@@ -57,7 +57,6 @@ In situ methods are in high demand:
 * in tightly coupled digital twins, and in computational sciences.
 
 Each one of these examples has a different set of requirements in response time, data throughput and complexity of data pipelines, and more exploration in the in situ space is needed to address multifaceted goals: (1) to preserve important elements of simulations, (2) to significantly reduce the data needed to preserve these elements, (3) to offer as much flexibility as possible for post-processing exploration, and (4) to accelerate the gathering of insights to be fast enough to make timely decisions based on it.
-
 
 ISAV'26 brings together the broader HPC community and researchers, developers and practitioners from industry, academia, and government laboratories who are developing, applying, and deploying scalable in situ methods at any high performance platform.
 The goal is to present research findings, lessons learned, and insights related to developing and applying in situ methods across a range of science and engineering applications in scalable environments; to discuss topics like opportunities presented by new workflows in AI/ML, modeling, data processing, emerging architectures, infrastructure needs, requirements, and gaps, and experiences to foster and enable in situ AI, analysis, and visualization.
@@ -79,20 +78,22 @@ Submissions of all types may identify opportunities, challenges and best practic
 * **Enabling Hardware & Emerging Architectures:** Hardware & emerging system architectures that provide opportunities for in situ processing.  Efficient use of hardware accelerators and heterogeneous architectures, incl. HPC, Data Center or Edge.
 
 
-## Review Process
-
-All submissions will undergo a peer-review process consisting of three reviews by experts in the field, and evaluated according to relevance to the workshop theme, technical soundness, creativity, originality, and impact of method/results.
-
 ## Submission Process
 
 Authors are invited to submit full or short papers, or community talk abstracts. Full papers should be 10 pages (including references), short papers should be 5 pages + 1 for references. Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0 and higher) and formatted for 8.5in x 11in (U.S. Letter). All authors must use the new proceedings templates at [https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates).
 
-We believe that reproducible science is essential, and that SC should be a leader in this effort. As a consequence, ISAV 2025 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information. While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper. For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
+We believe that reproducible science is essential, and that SC should be a leader in this effort. As a consequence, ISAV 2026 participates in the SC reproducibility initiative and encourages submitters to include an appendix with reproducibility information. While we will not disqualify a paper based on information provided or not provided in this appendix, nor if the appendix is not available, the availability and quality of an appendix will be used in ranking a paper. For more information, see the [ISAV reproducibility FAQ](https://docs.google.com/document/d/1dL8kgFOyGtCniRXIzmozi_NGEVBvUe3AQ05qe1du4u4/edit#heading=h.mga5xfgyjgtp).
 
 Papers must be self-contained and provide the technical substance required for the program committee to evaluate their contributions. Submitted papers must be original work that has not appeared in and is not under consideration for another conference or a journal.
 
+### Submission via Linklings
+
 Papers and community talks should be submitted via Linklings at this [link](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopISAVPaperSubmission&site=sc26) (login required).
 A preview of the submission form is available [here](https://submissions.supercomputing.org/?page=SampleForm&id=SCWorkshopISAVPaperSubmission&site=sc26).
+
+## Review Process
+
+All submissions will undergo a peer-review process consisting of three reviews by experts in the field, and evaluated according to relevance to the workshop theme, technical soundness, creativity, originality, and impact of method/results.
 
 
 ## Publication in proceedings, presentation at the workshop
@@ -122,7 +123,14 @@ Week of SC 2026    | ISAV'26 workshop at SC26
 
 #### Organizing Committee
 
-Coming soon
+The above mentioned chairs plus:
+
+	* Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
+	* Kenneth Moreland, *Oak Ridge National Laboratory, USA*
+	* Patrick O’Leary, *Kitware, Inc., USA*
+	* Guido Reina, *University of Stuttgart, Germany*
+	* Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
+	* Sean Ziegeler, *US Department of Defense HPC, USA*
 
 #### Program Committee
 
