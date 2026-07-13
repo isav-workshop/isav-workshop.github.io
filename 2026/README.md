@@ -125,12 +125,12 @@ Week of SC 2026    | ISAV'26 workshop at SC26
 
 The above mentioned chairs plus:
 
-	* Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
-	* Kenneth Moreland, *Oak Ridge National Laboratory, USA*
-	* Patrick O’Leary, *Kitware, Inc., USA*
-	* Guido Reina, *University of Stuttgart, Germany*
-	* Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
-	* Sean Ziegeler, *US Department of Defense HPC, USA*
+  * Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
+  * Kenneth Moreland, *Oak Ridge National Laboratory, USA*
+  * Patrick O’Leary, *Kitware, Inc., USA*
+  * Guido Reina, *University of Stuttgart, Germany*
+  * Tom Vierjahn, *Westphalian University of Applied Sciences, Germany*
+  * Sean Ziegeler, *US Department of Defense HPC, USA*
 
 #### Program Committee
 
