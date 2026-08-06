@@ -103,7 +103,8 @@ All paper submissions that receive favorable reviews will be included as part of
 ## Timeline/Important Dates
 
 :------------------|:--------------------------------------
-Aug 07 2026        | Submission deadline (all types)
+~~07 Aug 2026~~    | ~~Submission deadline (all types)~~ extended!
+14 Aug 2026        | Extended submission deadline (all types)
 04 Sep 2026        | Author notification
 25 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
 Week of SC 2026    | ISAV'26 workshop at SC26
