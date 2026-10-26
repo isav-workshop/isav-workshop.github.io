@@ -37,7 +37,7 @@ p { text-align: justify; }
 
 In conjunction with:
 [SC26, The International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc26.supercomputing.org).
-Sunday, 15 November, 2026, 2-5:30pm Central Time.
+[Sunday, 15 November, 2026, 2-5:30pm Central Time. Room W176b](https://sc26.conference-program.com/session/?sess=sess123).
 <br>
 
 </p>
