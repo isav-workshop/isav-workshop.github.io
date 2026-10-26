@@ -115,7 +115,7 @@ Week of SC 2026    | ISAV'26 workshop at SC26
 
   * General chair: Will Usher, *Luminary Cloud, USA*
   * General co-chair:  Victor Mateevitsi, *Argonne National Laboratory, USA*
-  * Program chair:  Jens Henrik Göbbert, *Jülich Supercomputing Centre*
+  * Program chair:  Jens Henrik Göbbert, *Forschungszentrum Jülich GmbH, Germany*
   * Program co-chair: Nicole Marsaglia, *Lawrence Livermore, National Laboratory, USA*
   * Publicity chair: Matthew Larsen, *Luminary Cloud, USA*
   * Publication chair: Nicola Ferrier, *Argonne National Laboratory, USA*
@@ -135,7 +135,31 @@ The above mentioned chairs plus:
 
 #### Program Committee
 
-Coming soon
+  * Axel Huebl, *Lawrence Berkeley National Laboratory, USA*
+  * Andres Sewell, *Utah State University, Argonne National Laboratory, USA*
+  * Bei Wang, *University of Utah, USA*
+  * Dirk Baker, *Helmholtz-Centre for Environmental Research, Germany*
+  * Hank Childs, *University of Oregon, USA*
+  * Isaac Nealey, *University of California, USA*
+  * Joseph A. Insley, *Argonne National Laboratory, USA*
+  * Jorji Nonaka, *RIKEN Center for Computational Science, Japan*
+  * Jesus Pulido, *Los Alamos National Laboratory, USA*
+  * Kate Isaacs, *University of Utah, USA*
+  * James Kress, *King Abdullah University of Science and Technology, Saudi-Arabia*
+  * Landon Richard Dyken, *University of Illinois Chicago, USA*
+  * Matthieu Dorier, *Argonne National Laboratory, USA*
+  * Marcel Krüger, *Forschungszentrum Jülich GmbH, Germany*
+  * Meghanto Majumder, *University of Houston, USA*
+  * Patrick Gralka, *University of Stuttgart, Germany*
+  * Pascal Grosset, *Los Alamos National Laboratory, USA*
+  * Qi Wu, *NVIDIA Corporation*
+  * Shin-Rong Tsai, *University of Illinois Urbana-Champaign, USA*
+  * Tim Gerrits, *RWTH Aachen University, Germany*
+
+#### Best Contribution Committee
+  * E. Wes Bethel, *San Francisco State University and Lawrence Berkeley National Laboratory, USA*
+  * Matthew Larsen, *Luminary Cloud, USA*
+  * Ken Moreland, *Oak Ridge National Laboratory, USA*
 
 ### Contact Us
  * Will Usher, General Chair, will at willusher dot io
