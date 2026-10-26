@@ -109,6 +109,10 @@ All paper submissions that receive favorable reviews will be included as part of
 25 Sep 2026        | Camera ready copy due (note: this deadline is FIRM)
 Week of SC 2026    | ISAV'26 workshop at SC26
 
+## Workshop Schedule
+
+You can view the full workshop schedule, session details, and abstracts on the official [ISAV 2026 Conference Program](https://sc26.conference-program.com/session/?sess=sess123).
+
 ## Committees and Chairs
 
 #### Chairs
